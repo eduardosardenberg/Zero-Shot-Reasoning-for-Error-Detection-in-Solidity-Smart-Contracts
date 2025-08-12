@@ -1,4 +1,4 @@
-# VulnExplain
+# Smart-Contract-LLM-Evaluation
 
 This repository provides datasets and source code for evaluating the capabilities of large language models (LLMs) in both detecting and explaining vulnerabilities in Solidity smart contracts. It supports zero-shot experiments across different reasoning strategies and includes both quantitative (e.g., F1-score) and qualitative (e.g., explanation correctness, completeness, and clarity) evaluation.
 
