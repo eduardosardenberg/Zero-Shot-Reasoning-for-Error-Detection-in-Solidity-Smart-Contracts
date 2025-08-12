@@ -1,0 +1,20 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Iosiro-AMO Crowdsale Smart Contract Audit/AMO-Contracts-26b5b22f50e39cd9fc3a6df99aff83f5a74e89d3/AMOCoinSale.sol",
+ "SWCs": [
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "onlyValidPurchase",
+   "lineNumber": "L132"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "startSale",
+   "lineNumber": "L349"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "endSale",
+   "lineNumber": "L358"
+  }
+ ]
+}

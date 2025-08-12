@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/QuillAudits-Citrus Smart Contract/CitrusTechContract-e50a2a983928c10b76e6bc374ae6267f51af99b6/CitrusToken.sol",
+ "SWCs": [
+  {
+   "category": "SWC-104-Unchecked Call Return Value",
+   "function": "release",
+   "lineNumber": "L132"
+  }
+ ]
+}

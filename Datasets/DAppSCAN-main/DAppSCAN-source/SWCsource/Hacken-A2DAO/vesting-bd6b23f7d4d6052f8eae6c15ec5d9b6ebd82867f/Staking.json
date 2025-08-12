@@ -1,0 +1,25 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-A2DAO/vesting-bd6b23f7d4d6052f8eae6c15ec5d9b6ebd82867f/Staking.sol",
+ "SWCs": [
+  {
+   "category": "SWC-100-Function Default Visibility",
+   "function": "withdraw",
+   "lineNumber": "L138"
+  },
+  {
+   "category": "SWC-100-Function Default Visibility",
+   "function": "totalStaked",
+   "lineNumber": "L203"
+  },
+  {
+   "category": "SWC-100-Function Default Visibility",
+   "function": "userStaked",
+   "lineNumber": "L208"
+  },
+  {
+   "category": "SWC-100-Function Default Visibility",
+   "function": "userRewards",
+   "lineNumber": "L213"
+  }
+ ]
+}

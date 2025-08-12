@@ -1,0 +1,25 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Iosiro-Set Protocol Exchange Issuance Smart Contract Audit/index-coop-contracts-legacy-a2904cf34be59a1ebde7ef186bd8535db80093b0/ExchangeIssuance.sol",
+ "SWCs": [
+  {
+   "category": "SWC-134-Message call with hardcoded gas amount",
+   "function": "issueExactSetFromToken",
+   "lineNumber": "L248"
+  },
+  {
+   "category": "SWC-134-Message call with hardcoded gas amount",
+   "function": "issueExactSetFromToken",
+   "lineNumber": "L247, L279, L349"
+  },
+  {
+   "category": "SWC-134-Message call with hardcoded gas amount",
+   "function": "issueExactSetFromETH",
+   "lineNumber": "L281"
+  },
+  {
+   "category": "SWC-134-Message call with hardcoded gas amount",
+   "function": "redeemExactSetForETH",
+   "lineNumber": "L352"
+  }
+ ]
+}

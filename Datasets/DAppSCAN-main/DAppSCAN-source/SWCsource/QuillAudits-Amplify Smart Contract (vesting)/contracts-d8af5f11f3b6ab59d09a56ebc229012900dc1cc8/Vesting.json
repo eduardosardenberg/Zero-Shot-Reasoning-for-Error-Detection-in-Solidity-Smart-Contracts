@@ -1,0 +1,15 @@
+{
+ "filePath": "DAppSCAN-source/contracts/QuillAudits-Amplify Smart Contract (vesting)/contracts-d8af5f11f3b6ab59d09a56ebc229012900dc1cc8/Vesting.sol",
+ "SWCs": [
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "createEntries",
+   "lineNumber": "L99, L111, L153, L180, L211"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "getBlockTimestamp",
+   "lineNumber": "L218"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/openzeppelin-Endaoment/endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add/Fund.sol",
+ "SWCs": [
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "finalizeGrant",
+   "lineNumber": "L119-134"
+  }
+ ]
+}

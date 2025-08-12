@@ -1,0 +1,15 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Blockchain Labs NZ-BitHero/BitHeroToken-master/Crowdsale.sol",
+ "SWCs": [
+  {
+   "category": "SWC-100-Function Default Visibility",
+   "function": "setRequireCustomerId",
+   "lineNumber": "L149"
+  },
+  {
+   "category": "SWC-100-Function Default Visibility",
+   "function": "setRequireSignedAddress",
+   "lineNumber": "L161"
+  }
+ ]
+}

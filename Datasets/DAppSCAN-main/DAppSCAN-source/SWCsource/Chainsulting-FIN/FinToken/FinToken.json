@@ -1,0 +1,15 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Chainsulting-FIN/FinToken/FinToken.sol",
+ "SWCs": [
+  {
+   "category": "SWC-103-Floating Pragma",
+   "function": "N/A",
+   "lineNumber": "L6"
+  },
+  {
+   "category": "SWC-101-Integer Overflow and Underflow",
+   "function": "N/A",
+   "lineNumber": "L225"
+  }
+ ]
+}

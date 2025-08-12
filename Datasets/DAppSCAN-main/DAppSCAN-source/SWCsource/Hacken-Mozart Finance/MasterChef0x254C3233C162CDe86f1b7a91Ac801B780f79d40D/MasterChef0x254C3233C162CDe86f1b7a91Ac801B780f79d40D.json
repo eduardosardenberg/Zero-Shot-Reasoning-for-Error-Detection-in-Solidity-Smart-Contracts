@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Mozart Finance/MasterChef0x254C3233C162CDe86f1b7a91Ac801B780f79d40D/MasterChef0x254C3233C162CDe86f1b7a91Ac801B780f79d40D.sol",
+ "SWCs": [
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "massUpdatePools",
+   "lineNumber": "L1499"
+  }
+ ]
+}

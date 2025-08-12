@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/consensys-Umbra_Smart_Contracts/umbra-protocol-fa2e17367d66a85f20c77299ded5942d9ab64fe0/contracts/contracts/Umbra.sol",
+ "SWCs": [
+  {
+   "category": "SWC-121-Missing Protection against Signature Replay Attacks",
+   "function": "_validateWithdrawSignature",
+   "lineNumber": "L308-330"
+  }
+ ]
+}

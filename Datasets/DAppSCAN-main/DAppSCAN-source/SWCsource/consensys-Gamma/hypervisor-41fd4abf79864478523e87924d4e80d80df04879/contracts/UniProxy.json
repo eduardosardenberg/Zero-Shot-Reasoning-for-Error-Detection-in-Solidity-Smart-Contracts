@@ -1,0 +1,20 @@
+{
+ "filePath": "DAppSCAN-source/contracts/consensys-Gamma/hypervisor-41fd4abf79864478523e87924d4e80d80df04879/contracts/UniProxy.sol",
+ "SWCs": [
+  {
+   "category": "SWC-105-Unprotected Ether Withdrawal",
+   "function": "deposit",
+   "lineNumber": "L67-126"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "deposit",
+   "lineNumber": "L75-82"
+  },
+  {
+   "category": "SWC-135-Code With No Effects",
+   "function": "properDepositRatio",
+   "lineNumber": "L259-276"
+  }
+ ]
+}

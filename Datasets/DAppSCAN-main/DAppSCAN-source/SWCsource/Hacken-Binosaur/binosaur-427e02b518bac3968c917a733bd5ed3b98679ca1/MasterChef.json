@@ -1,0 +1,15 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Binosaur/binosaur-427e02b518bac3968c917a733bd5ed3b98679ca1/MasterChef.sol",
+ "SWCs": [
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "executeAddPools",
+   "lineNumber": "L189"
+  },
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "executeUpdateAllocPoint",
+   "lineNumber": "L259"
+  }
+ ]
+}

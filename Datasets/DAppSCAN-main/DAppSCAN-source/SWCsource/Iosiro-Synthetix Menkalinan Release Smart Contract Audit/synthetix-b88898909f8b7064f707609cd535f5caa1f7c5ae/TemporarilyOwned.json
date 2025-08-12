@@ -1,0 +1,15 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Iosiro-Synthetix Menkalinan Release Smart Contract Audit/synthetix-b88898909f8b7064f707609cd535f5caa1f7c5ae/TemporarilyOwned.sol",
+ "SWCs": [
+  {
+   "category": "SWC-111-Use of Deprecated Solidity Functions",
+   "function": "onlyTemporaryOwner {",
+   "lineNumber": "L14-L17"
+  },
+  {
+   "category": "SWC-111-Use of Deprecated Solidity Functions",
+   "function": "_onlyTemporaryOwner",
+   "lineNumber": "L19-22"
+  }
+ ]
+}

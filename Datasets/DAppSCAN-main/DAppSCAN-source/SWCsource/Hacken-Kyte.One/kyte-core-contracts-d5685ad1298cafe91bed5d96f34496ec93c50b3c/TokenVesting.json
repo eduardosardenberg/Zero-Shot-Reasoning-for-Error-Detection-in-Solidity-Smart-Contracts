@@ -1,0 +1,15 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Kyte.One/kyte-core-contracts-d5685ad1298cafe91bed5d96f34496ec93c50b3c/TokenVesting.sol",
+ "SWCs": [
+  {
+   "category": "SWC-103-Floating Pragma",
+   "function": "N/A",
+   "lineNumber": "L2"
+  },
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "getAllVestingScheduleForHolder",
+   "lineNumber": "L286-302"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/PeckShield-Atlantis/atlantis-protocol-bsc-766acebba9316eced1c15abf6158b31f470a947f/contracts/AToken.sol",
+ "SWCs": [
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "borrowFresh",
+   "lineNumber": "L738-L802"
+  }
+ ]
+}

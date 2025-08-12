@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/QuillAudits-Amplify voting Smart Contract/contracts-9dd44ac15cb66685a5beb038065f1673bcd6a8bb/Voting.sol",
+ "SWCs": [
+  {
+   "category": "SWC-119-Shadowing State Variables",
+   "function": "userOwnsTheLock",
+   "lineNumber": "L108-110"
+  }
+ ]
+}

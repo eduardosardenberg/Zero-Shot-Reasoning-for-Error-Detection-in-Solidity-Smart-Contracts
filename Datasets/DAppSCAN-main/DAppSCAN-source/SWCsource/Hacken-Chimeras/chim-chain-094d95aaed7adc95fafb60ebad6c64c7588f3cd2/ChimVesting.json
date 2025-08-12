@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Chimeras/chim-chain-094d95aaed7adc95fafb60ebad6c64c7588f3cd2/ChimVesting.sol",
+ "SWCs": [
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "checkLocks",
+   "lineNumber": "L242"
+  }
+ ]
+}

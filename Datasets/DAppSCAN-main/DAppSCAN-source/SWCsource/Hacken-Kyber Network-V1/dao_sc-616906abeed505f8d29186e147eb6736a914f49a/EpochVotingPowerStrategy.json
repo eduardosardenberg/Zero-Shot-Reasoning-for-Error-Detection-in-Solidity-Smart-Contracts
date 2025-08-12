@@ -1,0 +1,15 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Kyber Network-V1/dao_sc-616906abeed505f8d29186e147eb6736a914f49a/EpochVotingPowerStrategy.sol",
+ "SWCs": [
+  {
+   "category": "SWC-126-Insufficient Gas Griefing",
+   "function": "handleProposalCancellation",
+   "lineNumber": "L66-79"
+  },
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "handleWithdrawal",
+   "lineNumber": "L100-112"
+  }
+ ]
+}

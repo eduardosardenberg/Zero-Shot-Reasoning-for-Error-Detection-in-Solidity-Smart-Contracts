@@ -1,0 +1,15 @@
+{
+ "filePath": "DAppSCAN-source/contracts/PeckShield-KaoyaSwap/contracts-8273073f1d6914f372790399378f177573c52e37/masterchef.sol",
+ "SWCs": [
+  {
+   "category": "SWC-135-Code With No Effects",
+   "function": "add",
+   "lineNumber": "L103 - L115"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "deposit",
+   "lineNumber": "L196 - L208"
+  }
+ ]
+}

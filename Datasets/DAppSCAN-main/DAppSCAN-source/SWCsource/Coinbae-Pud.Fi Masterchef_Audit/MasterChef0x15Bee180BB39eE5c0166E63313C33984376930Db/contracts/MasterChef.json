@@ -1,0 +1,50 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Coinbae-Pud.Fi Masterchef_Audit/MasterChef0x15Bee180BB39eE5c0166E63313C33984376930Db/contracts/MasterChef.sol",
+ "SWCs": [
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "add",
+   "lineNumber": "L105 - L127"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "set",
+   "lineNumber": "L131 - L143"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "deposit",
+   "lineNumber": "L227 - L266"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "deposit",
+   "lineNumber": "L247 - L251"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "withdraw",
+   "lineNumber": "L272 - L306"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "emergencyWithdraw",
+   "lineNumber": "L310 - L329"
+  },
+  {
+   "category": "SWC-104-Unchecked Call Return Value",
+   "function": "safePudTransfer",
+   "lineNumber": "L333 - L340"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "balance",
+   "lineNumber": "L378 - L381"
+  },
+  {
+   "category": "SWC-104-Unchecked Call Return Value",
+   "function": "setPoolStrategy",
+   "lineNumber": "L384 - L389"
+  }
+ ]
+}

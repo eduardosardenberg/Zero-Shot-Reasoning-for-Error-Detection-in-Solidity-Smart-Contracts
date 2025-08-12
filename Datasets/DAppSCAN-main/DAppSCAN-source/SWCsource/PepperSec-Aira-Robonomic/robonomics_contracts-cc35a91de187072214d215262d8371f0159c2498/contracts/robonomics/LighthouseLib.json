@@ -1,0 +1,25 @@
+{
+ "filePath": "DAppSCAN-source/contracts/PepperSec-Aira-Robonomic/robonomics_contracts-cc35a91de187072214d215262d8371f0159c2498/contracts/robonomics/LighthouseLib.sol",
+ "SWCs": [
+  {
+   "category": "SWC-102-Outdated Compiler Version",
+   "function": "N/A",
+   "lineNumber": "L2"
+  },
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "withdraw",
+   "lineNumber": "L24"
+  },
+  {
+   "category": "SWC-101-Integer Overflow and Underflow",
+   "function": "quoted {",
+   "lineNumber": "L54"
+  },
+  {
+   "category": "SWC-115-Authorization through tx.origin",
+   "function": "to",
+   "lineNumber": "L85"
+  }
+ ]
+}

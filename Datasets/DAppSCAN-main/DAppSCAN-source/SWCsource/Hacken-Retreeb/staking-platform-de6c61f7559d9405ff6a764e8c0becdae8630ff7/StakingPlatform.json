@@ -1,0 +1,45 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Retreeb/staking-platform-de6c61f7559d9405ff6a764e8c0becdae8630ff7/StakingPlatform.sol",
+ "SWCs": [
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "startStaking",
+   "lineNumber": "L58-L60"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "deposit",
+   "lineNumber": "L72"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "deposit",
+   "lineNumber": "L82"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "withdraw",
+   "lineNumber": "L99"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "withdrawResidualBalance",
+   "lineNumber": "L125"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "_percentageTimeRemaining",
+   "lineNumber": "L214"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "_percentageTimeRemaining",
+   "lineNumber": "L216-L217"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "_updateRewards",
+   "lineNumber": "L250-L252"
+  }
+ ]
+}

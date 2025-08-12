@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/PeckShield-OneSwap/oneswap_contract_ethereum-4194ac1a55934cd573bd93987111eaa8f70676fe/contracts/OneSwapPair.sol",
+ "SWCs": [
+  {
+   "category": "SWC-101-Integer Overflow and Underflow",
+   "function": "_dealWithPoolAndCollectFee",
+   "lineNumber": "L1002"
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-StudentCoin/stc-erc20-v2-412905ffa414c34b75fa4c52e5993318b2a5f067/STCERC20.sol",
+ "SWCs": [
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "batchTransfer",
+   "lineNumber": "L20-21"
+  }
+ ]
+}

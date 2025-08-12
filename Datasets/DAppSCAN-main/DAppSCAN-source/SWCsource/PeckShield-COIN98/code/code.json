@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/PeckShield-COIN98/code/code.sol",
+ "SWCs": [
+  {
+   "category": "SWC-107-Reentrancy",
+   "function": "vote",
+   "lineNumber": "L181"
+  }
+ ]
+}

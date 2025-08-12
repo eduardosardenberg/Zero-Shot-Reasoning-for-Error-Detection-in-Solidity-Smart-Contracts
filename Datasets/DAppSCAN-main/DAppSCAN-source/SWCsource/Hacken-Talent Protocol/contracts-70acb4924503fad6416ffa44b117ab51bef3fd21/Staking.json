@@ -1,0 +1,25 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Talent Protocol/contracts-70acb4924503fad6416ffa44b117ab51bef3fd21/Staking.sol",
+ "SWCs": [
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "adminWithdraw",
+   "lineNumber": "L444"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "_checkpoint",
+   "lineNumber": "L601"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "_updateS",
+   "lineNumber": "L650-L651"
+  },
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "onlyWhileStakingEnabled",
+   "lineNumber": "L748-L749"
+  }
+ ]
+}

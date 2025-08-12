@@ -1,0 +1,401 @@
+dataset_name,file_path,category,file_name,has_error
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/RegressionImplementation.sol,contracts,RegressionImplementation.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/CallReceiverMock.sol,contracts,CallReceiverMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/InitializableMock.sol,contracts,InitializableMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/AccessManagedTarget.sol,contracts,AccessManagedTarget.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/TransientSlotMock.sol,contracts,TransientSlotMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/DummyImplementation.sol,contracts,DummyImplementation.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/ERC3156FlashBorrowerMock.sol,contracts,ERC3156FlashBorrowerMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/VotesMock.sol,contracts,VotesMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/ReentrancyAttack.sol,contracts,ReentrancyAttack.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/EtherReceiverMock.sol,contracts,EtherReceiverMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/VotesExtendedMock.sol,contracts,VotesExtendedMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/MerkleProofCustomHashMock.sol,contracts,MerkleProofCustomHashMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/ArraysMock.sol,contracts,ArraysMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/ERC2771ContextMock.sol,contracts,ERC2771ContextMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/EIP712Verifier.sol,contracts,EIP712Verifier.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/MulticallHelper.sol,contracts,MulticallHelper.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/ERC1271WalletMock.sol,contracts,ERC1271WalletMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/AuthorityMock.sol,contracts,AuthorityMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/ReentrancyMock.sol,contracts,ReentrancyMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/StorageSlotMock.sol,contracts,StorageSlotMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/Stateless.sol,contracts,Stateless.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/MerkleTreeMock.sol,contracts,MerkleTreeMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/ContextMock.sol,contracts,ContextMock.sol,False
+openZeppelin,openzeppelin-contracts-master/contracts/mocks/MultipleInheritanceInitializableMocks.sol,contracts,MultipleInheritanceInitializableMocks.sol,False
+UniswapV3,v3-core-main/contracts/UniswapV3PoolDeployer.sol,contracts,UniswapV3PoolDeployer.sol,False
+UniswapV3,v3-core-main/contracts/NoDelegateCall.sol,contracts,NoDelegateCall.sol,False
+UniswapV3,v3-core-main/contracts/UniswapV3Factory.sol,contracts,UniswapV3Factory.sol,False
+UniswapV3,v3-core-main/contracts/UniswapV3Pool.sol,contracts,UniswapV3Pool.sol,False
+UniswapV3,v3-core-main/contracts/test/NoDelegateCallTest.sol,contracts,NoDelegateCallTest.sol,False
+UniswapV3,v3-core-main/contracts/test/SqrtPriceMathTest.sol,contracts,SqrtPriceMathTest.sol,False
+UniswapV3,v3-core-main/contracts/test/TickBitmapTest.sol,contracts,TickBitmapTest.sol,False
+UniswapV3,v3-core-main/contracts/test/OracleEchidnaTest.sol,contracts,OracleEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/TestUniswapV3Callee.sol,contracts,TestUniswapV3Callee.sol,False
+UniswapV3,v3-core-main/contracts/test/OracleTest.sol,contracts,OracleTest.sol,False
+UniswapV3,v3-core-main/contracts/test/UniswapV3PoolSwapTest.sol,contracts,UniswapV3PoolSwapTest.sol,False
+UniswapV3,v3-core-main/contracts/test/TickOverflowSafetyEchidnaTest.sol,contracts,TickOverflowSafetyEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/BitMathEchidnaTest.sol,contracts,BitMathEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/FullMathEchidnaTest.sol,contracts,FullMathEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/LiquidityMathTest.sol,contracts,LiquidityMathTest.sol,False
+UniswapV3,v3-core-main/contracts/test/FullMathTest.sol,contracts,FullMathTest.sol,False
+UniswapV3,v3-core-main/contracts/test/SqrtPriceMathEchidnaTest.sol,contracts,SqrtPriceMathEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/TickBitmapEchidnaTest.sol,contracts,TickBitmapEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/SwapMathTest.sol,contracts,SwapMathTest.sol,False
+UniswapV3,v3-core-main/contracts/test/TickMathTest.sol,contracts,TickMathTest.sol,False
+UniswapV3,v3-core-main/contracts/test/TestUniswapV3Router.sol,contracts,TestUniswapV3Router.sol,False
+UniswapV3,v3-core-main/contracts/test/TickMathEchidnaTest.sol,contracts,TickMathEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/MockTimeUniswapV3Pool.sol,contracts,MockTimeUniswapV3Pool.sol,False
+UniswapV3,v3-core-main/contracts/test/TickEchidnaTest.sol,contracts,TickEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/TickTest.sol,contracts,TickTest.sol,False
+UniswapV3,v3-core-main/contracts/test/UnsafeMathEchidnaTest.sol,contracts,UnsafeMathEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/SwapMathEchidnaTest.sol,contracts,SwapMathEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/LowGasSafeMathEchidnaTest.sol,contracts,LowGasSafeMathEchidnaTest.sol,False
+UniswapV3,v3-core-main/contracts/test/MockTimeUniswapV3PoolDeployer.sol,contracts,MockTimeUniswapV3PoolDeployer.sol,False
+UniswapV3,v3-core-main/contracts/test/TestERC20.sol,contracts,TestERC20.sol,False
+UniswapV3,v3-core-main/contracts/test/BitMathTest.sol,contracts,BitMathTest.sol,False
+UniswapV3,v3-core-main/contracts/test/TestUniswapV3SwapPay.sol,contracts,TestUniswapV3SwapPay.sol,False
+UniswapV3,v3-core-main/contracts/test/TestUniswapV3ReentrantCallee.sol,contracts,TestUniswapV3ReentrantCallee.sol,False
+UniswapV3,v3-core-main/contracts/libraries/Position.sol,contracts,Position.sol,False
+UniswapV3,v3-core-main/contracts/libraries/LiquidityMath.sol,contracts,LiquidityMath.sol,False
+UniswapV3,v3-core-main/contracts/libraries/TickBitmap.sol,contracts,TickBitmap.sol,False
+UniswapV3,v3-core-main/contracts/libraries/Tick.sol,contracts,Tick.sol,False
+UniswapV3,v3-core-main/contracts/libraries/BitMath.sol,contracts,BitMath.sol,False
+UniswapV3,v3-core-main/contracts/libraries/LowGasSafeMath.sol,contracts,LowGasSafeMath.sol,False
+UniswapV3,v3-core-main/contracts/libraries/Oracle.sol,contracts,Oracle.sol,False
+UniswapV3,v3-core-main/contracts/libraries/TickMath.sol,contracts,TickMath.sol,False
+UniswapV3,v3-core-main/contracts/libraries/FixedPoint128.sol,contracts,FixedPoint128.sol,False
+UniswapV3,v3-core-main/contracts/libraries/SqrtPriceMath.sol,contracts,SqrtPriceMath.sol,False
+UniswapV3,v3-core-main/contracts/libraries/TransferHelper.sol,contracts,TransferHelper.sol,False
+UniswapV3,v3-core-main/contracts/libraries/FullMath.sol,contracts,FullMath.sol,False
+UniswapV3,v3-core-main/contracts/libraries/SafeCast.sol,contracts,SafeCast.sol,False
+UniswapV3,v3-core-main/contracts/libraries/FixedPoint96.sol,contracts,FixedPoint96.sol,False
+UniswapV3,v3-core-main/contracts/libraries/UnsafeMath.sol,contracts,UnsafeMath.sol,False
+UniswapV3,v3-core-main/contracts/libraries/SwapMath.sol,contracts,SwapMath.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/IUniswapV3Factory.sol,contracts,IUniswapV3Factory.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/IUniswapV3Pool.sol,contracts,IUniswapV3Pool.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/IUniswapV3PoolDeployer.sol,contracts,IUniswapV3PoolDeployer.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/IERC20Minimal.sol,contracts,IERC20Minimal.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/callback/IUniswapV3SwapCallback.sol,contracts,IUniswapV3SwapCallback.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/callback/IUniswapV3MintCallback.sol,contracts,IUniswapV3MintCallback.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/callback/IUniswapV3FlashCallback.sol,contracts,IUniswapV3FlashCallback.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/pool/IUniswapV3PoolActions.sol,contracts,IUniswapV3PoolActions.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/pool/IUniswapV3PoolEvents.sol,contracts,IUniswapV3PoolEvents.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/pool/IUniswapV3PoolState.sol,contracts,IUniswapV3PoolState.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/pool/IUniswapV3PoolOwnerActions.sol,contracts,IUniswapV3PoolOwnerActions.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/pool/IUniswapV3PoolDerivedState.sol,contracts,IUniswapV3PoolDerivedState.sol,False
+UniswapV3,v3-core-main/contracts/interfaces/pool/IUniswapV3PoolImmutables.sol,contracts,IUniswapV3PoolImmutables.sol,False
+UniswapV2,v2-core-master/contracts/UniswapV2Factory.sol,contracts,UniswapV2Factory.sol,False
+UniswapV2,v2-core-master/contracts/UniswapV2ERC20.sol,contracts,UniswapV2ERC20.sol,False
+UniswapV2,v2-core-master/contracts/UniswapV2Pair.sol,contracts,UniswapV2Pair.sol,False
+UniswapV2,v2-core-master/contracts/test/ERC20.sol,contracts,ERC20.sol,False
+UniswapV2,v2-core-master/contracts/libraries/SafeMath.sol,contracts,SafeMath.sol,False
+UniswapV2,v2-core-master/contracts/libraries/UQ112x112.sol,contracts,UQ112x112.sol,False
+UniswapV2,v2-core-master/contracts/libraries/Math.sol,contracts,Math.sol,False
+UniswapV2,v2-core-master/contracts/interfaces/IERC20.sol,contracts,IERC20.sol,False
+UniswapV2,v2-core-master/contracts/interfaces/IUniswapV2ERC20.sol,contracts,IUniswapV2ERC20.sol,False
+UniswapV2,v2-core-master/contracts/interfaces/IUniswapV2Factory.sol,contracts,IUniswapV2Factory.sol,False
+UniswapV2,v2-core-master/contracts/interfaces/IUniswapV2Pair.sol,contracts,IUniswapV2Pair.sol,False
+UniswapV2,v2-core-master/contracts/interfaces/IUniswapV2Callee.sol,contracts,IUniswapV2Callee.sol,False
+JiuZhou,JiuZhou/Interface/Token Interface/Nonstandard token interface/contract without the bug/standarfTokenERC20.sol,Interface,standarfTokenERC20.sol,False
+JiuZhou,JiuZhou/Interface/Token Interface/Nonstandard token interface/contract without the bug/standarfTokenERC721.sol,Interface,standarfTokenERC721.sol,False
+JiuZhou,JiuZhou/Interface/Token Interface/Nonstandard token interface/bug contract/unstandardERC20.sol,Interface,unstandardERC20.sol,True
+JiuZhou,JiuZhou/Interface/Token Interface/Nonstandard token interface/bug contract/unstandardERC721.sol,Interface,unstandardERC721.sol,True
+JiuZhou,JiuZhou/Interface/Parameter/Signature with wrong parameter/contract without the bug/NoSigWrongPara.sol,Interface,NoSigWrongPara.sol,False
+JiuZhou,JiuZhou/Interface/Parameter/Signature with wrong parameter/bug contract/SigWrongPara.sol,Interface,SigWrongPara.sol,True
+JiuZhou,JiuZhou/Interface/Parameter/Hash Collisions With Multiple Variable Length Arguments/bug contracat/HashCollision.sol,Interface,HashCollision.sol,False
+JiuZhou,JiuZhou/Interface/Parameter/Hash Collisions With Multiple Variable Length Arguments/contract without the bug/Singel_NoHashCollision.sol,Interface,Singel_NoHashCollision.sol,False
+JiuZhou,JiuZhou/Interface/Parameter/The call address or data are externally controlled/misleading contract/gray_badProxy.sol,Interface,gray_badProxy.sol,False
+JiuZhou,JiuZhou/Interface/Parameter/The call address or data are externally controlled/misleading contract/gray_badDelegate.sol,Interface,gray_badDelegate.sol,False
+JiuZhou,JiuZhou/Interface/Parameter/The call address or data are externally controlled/contract without the bug/NoBadDelegate.sol,Interface,NoBadDelegate.sol,False
+JiuZhou,JiuZhou/Interface/Parameter/The call address or data are externally controlled/contract without the bug/NoBadProxy.sol,Interface,NoBadProxy.sol,False
+JiuZhou,JiuZhou/Interface/Parameter/The call address or data are externally controlled/bug contract/badDelegate.sol,Interface,badDelegate.sol,True
+JiuZhou,JiuZhou/Interface/Parameter/The call address or data are externally controlled/bug contract/badProxy.sol,Interface,badProxy.sol,True
+JiuZhou,JiuZhou/Interface/Parameter/Short address attack/contract without the bug/NoShortAddressAttack.sol,Interface,NoShortAddressAttack.sol,False
+JiuZhou,JiuZhou/Interface/Parameter/Short address attack/bug contract/shortAddressAttack.sol,Interface,shortAddressAttack.sol,True
+JiuZhou,JiuZhou/Security/Authority control/Write the wrong constructor name/contract without the bug/NoMissConstructor1.sol,Security,NoMissConstructor1.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Write the wrong constructor name/contract without the bug/NoMissConstructor.sol,Security,NoMissConstructor.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Write the wrong constructor name/bug contract/MissConstructor1.sol,Security,MissConstructor1.sol,True
+JiuZhou,JiuZhou/Security/Authority control/Write the wrong constructor name/bug contract/MissConstructor.sol,Security,MissConstructor.sol,True
+JiuZhou,JiuZhou/Security/Authority control/Txorigin for authentication/misleading contract/gray_Txorigin.sol,Security,gray_Txorigin.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Txorigin for authentication/contract without the bug/NobadTxorigin.sol,Security,NobadTxorigin.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Txorigin for authentication/bug contract/badTxorigin.sol,Security,badTxorigin.sol,True
+JiuZhou,JiuZhou/Security/Authority control/Wasteful contract/misleading contract/gray_prodigal1.sol,Security,gray_prodigal1.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Wasteful contract/misleading contract/gray_prodigal2.sol,Security,gray_prodigal2.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Wasteful contract/contract without the bug/NoProdigal.sol,Security,NoProdigal.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Wasteful contract/bug contract/prodigal.sol,Security,prodigal.sol,True
+JiuZhou,JiuZhou/Security/Authority control/Replay attack/contract without the bug/NoReplayAttack.sol,Security,NoReplayAttack.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Replay attack/bug contract/replatAttack2.sol,Security,replatAttack2.sol,True
+JiuZhou,JiuZhou/Security/Authority control/Replay attack/bug contract/replayAttack1.sol,Security,replayAttack1.sol,True
+JiuZhou,JiuZhou/Security/Authority control/Suicidal contract/misleading contract/gray_SuicideEasily.sol,Security,gray_SuicideEasily.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Suicidal contract/contract without the bug/NoSuicideEasily.sol,Security,NoSuicideEasily.sol,False
+JiuZhou,JiuZhou/Security/Authority control/Suicidal contract/bug contract/SuicideEasily.sol,Security,SuicideEasily.sol,True
+JiuZhou,JiuZhou/Security/Privacy/Public data/contract without the bug/NoPrivateModifier.sol,Security,NoPrivateModifier.sol,False
+JiuZhou,JiuZhou/Security/Privacy/Public data/bug contract/privateModifier.sol,Security,privateModifier.sol,True
+JiuZhou,JiuZhou/Security/Privacy/Non-public variables are accessed by public or external function/contract without the bug/NoPrivatePass.sol,Security,NoPrivatePass.sol,False
+JiuZhou,JiuZhou/Security/Privacy/Non-public variables are accessed by public or external function/bug contract/privatePass.sol,Security,privatePass.sol,True
+JiuZhou,JiuZhou/Logic/Assembly code/Any type of specified function variable/contract without the bug/NoArbitraryFunctionType.sol,Logic,NoArbitraryFunctionType.sol,False
+JiuZhou,JiuZhou/Logic/Assembly code/Any type of specified function variable/bug contract/ArbitraryFunctionType.sol,Logic,ArbitraryFunctionType.sol,True
+JiuZhou,JiuZhou/Logic/Assembly code/Use assembly code return in the constructor/contract without the bug/NoReturnInCons.sol,Logic,NoReturnInCons.sol,False
+JiuZhou,JiuZhou/Logic/Assembly code/Use assembly code return in the constructor/bug contract/returnInCons.sol,Logic,returnInCons.sol,True
+JiuZhou,JiuZhou/Logic/Storage/Storage overlap attack/misleading contract/gray_ ArbitraryWrite.sol,Logic,gray_ ArbitraryWrite.sol,False
+JiuZhou,JiuZhou/Logic/Storage/Storage overlap attack/contract without the bug/NoWriteStorage.sol,Logic,NoWriteStorage.sol,False
+JiuZhou,JiuZhou/Logic/Storage/Storage overlap attack/bug contract/ArbitraryWrite.sol,Logic,ArbitraryWrite.sol,True
+JiuZhou,JiuZhou/Logic/Denial of service/Complex fallback function/contract without the bug/NoComplexFallback.sol,Logic,NoComplexFallback.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/Complex fallback function/bug contract/complexFallback.sol,Logic,complexFallback.sol,True
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/misleading contract/gray_PullButNoPush.sol,Logic,gray_PullButNoPush.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/misleading contract/gray_HardCodeAddress.sol,Logic,gray_HardCodeAddress.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/misleading contract/gray_overwhelmning.sol,Logic,gray_overwhelmning.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/contract without the bug/NoHardCodeAddress.sol,Logic,NoHardCodeAddress.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/contract without the bug/NoOverwhelming.sol,Logic,NoOverwhelming.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/contract without the bug/NoPushButNoPull.sol,Logic,NoPushButNoPull.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/bug contract/PushButNoPull.sol,Logic,PushButNoPull.sol,True
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/bug contract/Overwhelming.sol,Logic,Overwhelming.sol,True
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by non-existent address or contract/bug contract/HardCodeAddress.sol,Logic,HardCodeAddress.sol,True
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Delete dynamic array/contract without the bug/NoDeleteDynamicArray.sol,Logic,NoDeleteDynamicArray.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Delete dynamic array/bug contract/deleteDynamicArray.sol,Logic,deleteDynamicArray.sol,True
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/misleading contract/gray_NestedCall.sol,Logic,gray_NestedCall.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/misleading contract/gray_infiniteLoop.sol,Logic,gray_infiniteLoop.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/misleading contract/gray_varIsNotSafe.sol,Logic,gray_varIsNotSafe.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/contract without the bug/NoNestedCall.sol,Logic,NoNestedCall.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/contract without the bug/NoInfiniteLoop.sol,Logic,NoInfiniteLoop.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/contract without the bug/NoVarIsNotSafe.sol,Logic,NoVarIsNotSafe.sol,False
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/bug contract/NestedCall.sol,Logic,NestedCall.sol,True
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/bug contract/varIsNotSafe.sol,Logic,varIsNotSafe.sol,True
+JiuZhou,JiuZhou/Logic/Denial of service/DOS by gaslimit/Costly loop/bug contract/infiniteLoop.sol,Logic,infiniteLoop.sol,True
+JiuZhou,JiuZhou/Logic/Fairness/Results of contract execution affected by miners/misleading contract/gray_timeDependence.sol,Logic,gray_timeDependence.sol,False
+JiuZhou,JiuZhou/Logic/Fairness/Results of contract execution affected by miners/contract without the bug/gray_controlledByMiners.sol,Logic,gray_controlledByMiners.sol,False
+JiuZhou,JiuZhou/Logic/Fairness/Results of contract execution affected by miners/bug contract/timeDependence.sol,Logic,timeDependence.sol,True
+JiuZhou,JiuZhou/Logic/Fairness/Results of contract execution affected by miners/bug contract/timeDependence1.sol,Logic,timeDependence1.sol,True
+JiuZhou,JiuZhou/Logic/Fairness/Results of contract execution affected by miners/bug contract/DangerousRandomNumbers.sol,Logic,DangerousRandomNumbers.sol,True
+JiuZhou,JiuZhou/Logic/Fairness/Transaction order dependence/contract with bug/approve.sol,Logic,approve.sol,False
+JiuZhou,JiuZhou/Logic/Fairness/Transaction order dependence/misleading contract/gray_approve.sol,Logic,gray_approve.sol,False
+JiuZhou,JiuZhou/Logic/Fairness/Transaction order dependence/contract without the bug/noApprove.sol,Logic,noApprove.sol,False
+JiuZhou,JiuZhou/Standard/Programming specification/Change the contract status in the view or constant function/contract without the bug/NoUntrustedView.sol,Standard,NoUntrustedView.sol,False
+JiuZhou,JiuZhou/Standard/Programming specification/Change the contract status in the view or constant function/bug contract/untrusted View and Constant.sol,Standard,untrusted View and Constant.sol,True
+JiuZhou,"JiuZhou/Standard/Programming specification/Improper use of require, assert, and revert/contract without the bug/NoRevertError.sol",Standard,NoRevertError.sol,False
+JiuZhou,"JiuZhou/Standard/Programming specification/Improper use of require, assert, and revert/contract without the bug/NoAssertError.sol",Standard,NoAssertError.sol,False
+JiuZhou,"JiuZhou/Standard/Programming specification/Improper use of require, assert, and revert/contract without the bug/NoRequireError.sol",Standard,NoRequireError.sol,False
+JiuZhou,"JiuZhou/Standard/Programming specification/Improper use of require, assert, and revert/bug contract/BarRequireError.sol",Standard,BarRequireError.sol,True
+JiuZhou,"JiuZhou/Standard/Programming specification/Improper use of require, assert, and revert/bug contract/AssertError.sol",Standard,AssertError.sol,True
+JiuZhou,"JiuZhou/Standard/Programming specification/Improper use of require, assert, and revert/bug contract/RevertError.sol",Standard,RevertError.sol,True
+JiuZhou,JiuZhou/Standard/Maintainability/Use deprecated built-in symbols/contract without the bug/NoDeprecated.sol,Standard,NoDeprecated.sol,False
+JiuZhou,JiuZhou/Standard/Maintainability/Use deprecated built-in symbols/bug contract/deprecated.sol,Standard,deprecated.sol,True
+JiuZhou,JiuZhou/Standard/Maintainability/too many digits/contract without the bug/NoTooManyDigits1.sol,Standard,NoTooManyDigits1.sol,False
+JiuZhou,JiuZhou/Standard/Maintainability/too many digits/contract without the bug/NoTooManyDigits.sol,Standard,NoTooManyDigits.sol,False
+JiuZhou,JiuZhou/Standard/Maintainability/too many digits/bug contract/tooManyDigits.sol,Standard,tooManyDigits.sol,True
+JiuZhou,JiuZhou/Standard/Maintainability/Non-standard naming/contract without the bug/NoWrongName.sol,Standard,NoWrongName.sol,False
+JiuZhou,JiuZhou/Standard/Maintainability/Non-standard naming/bug contract/wrongName.sol,Standard,wrongName.sol,True
+JiuZhou,JiuZhou/Standard/Maintainability/Implicit visibility level/contract without the bug/NoImplicitVisibility.sol,Standard,NoImplicitVisibility.sol,False
+JiuZhou,JiuZhou/Standard/Maintainability/Implicit visibility level/bug contract/ImplicitVisibility1.sol,Standard,ImplicitVisibility1.sol,True
+JiuZhou,JiuZhou/Standard/Maintainability/Implicit visibility level/bug contract/ImplicitVisibility.sol,Standard,ImplicitVisibility.sol,True
+JiuZhou,JiuZhou/Standard/Maintainability/Unlimited compiler versions/contract without the bug/NoUncappedVersion1.sol,Standard,NoUncappedVersion1.sol,False
+JiuZhou,JiuZhou/Standard/Maintainability/Unlimited compiler versions/contract without the bug/NoUncappedVersion.sol,Standard,NoUncappedVersion.sol,False
+JiuZhou,JiuZhou/Standard/Maintainability/Unlimited compiler versions/bug contract/UncappedVersion.sol,Standard,UncappedVersion.sol,True
+JiuZhou,JiuZhou/Standard/Maintainability/Unlimited compiler versions/bug contract/UncappedVersion1.sol,Standard,UncappedVersion1.sol,True
+JiuZhou,JiuZhou/Description/Output/Right-To-Left-Overridecontrolcharacter (U+202E)/contract without the bug/NoGuessTheNumber.sol,Description,NoGuessTheNumber.sol,False
+JiuZhou,JiuZhou/Description/Output/Right-To-Left-Overridecontrolcharacter (U+202E)/bug contract/GuessNumber.sol,Description,GuessNumber.sol,True
+JiuZhou,JiuZhou/Environment/Supporting software/Removes dynamic array elements/misleading contract/gray_deleteDynamic.sol,Environment,gray_deleteDynamic.sol,False
+JiuZhou,JiuZhou/Environment/Supporting software/Removes dynamic array elements/contract without the bug/NoDeleteDynamic.sol,Environment,NoDeleteDynamic.sol,False
+JiuZhou,JiuZhou/Environment/Supporting software/Removes dynamic array elements/bug contract/deleteDynamic.sol,Environment,deleteDynamic.sol,True
+JiuZhou,JiuZhou/Environment/Supporting software/continue in do-while/misleading contract/gray_DowhileContinue.sol,Environment,gray_DowhileContinue.sol,False
+JiuZhou,JiuZhou/Environment/Supporting software/continue in do-while/contract without the bug/dowhileButNoContinue.sol,Environment,dowhileButNoContinue.sol,False
+JiuZhou,JiuZhou/Environment/Supporting software/continue in do-while/contract without the bug/dowhileContinueIn050.sol,Environment,dowhileContinueIn050.sol,False
+JiuZhou,JiuZhou/Environment/Supporting software/continue in do-while/bug contract/dowhileContinue.sol,Environment,dowhileContinue.sol,True
+JiuZhou,JiuZhou/Performance/Gas/byte[]/contract without the bug/NoByte[].sol,Performance,NoByte[].sol,False
+JiuZhou,JiuZhou/Performance/Gas/byte[]/bug contract/byte[].sol,Performance,byte[].sol,True
+JiuZhou,JiuZhou/Performance/Gas/Invariant in loop/contract without the bug/NoConstBalanceInLoop1.sol,Performance,NoConstBalanceInLoop1.sol,False
+JiuZhou,JiuZhou/Performance/Gas/Invariant in loop/contract without the bug/NoConstBalanceInLoop.sol,Performance,NoConstBalanceInLoop.sol,False
+JiuZhou,JiuZhou/Performance/Gas/Invariant in loop/bug contract/ConstBalanceInLoop.sol,Performance,ConstBalanceInLoop.sol,True
+JiuZhou,JiuZhou/Performance/Gas/Invariant is not declared constant/contract without the bug/NoImmutableToConstant.sol,Performance,NoImmutableToConstant.sol,False
+JiuZhou,JiuZhou/Performance/Gas/Invariant is not declared constant/bug contract/ImmutableConstant.sol,Performance,ImmutableConstant.sol,True
+JiuZhou,JiuZhou/Performance/Gas/Unused public functions within a contract should be declared external/contract without the bug/NoPublicToExternal1.sol,Performance,NoPublicToExternal1.sol,False
+JiuZhou,JiuZhou/Performance/Gas/Unused public functions within a contract should be declared external/contract without the bug/NoPublicToExternal.sol,Performance,NoPublicToExternal.sol,False
+JiuZhou,JiuZhou/Performance/Gas/Unused public functions within a contract should be declared external/bug contract/publicToExternal.sol,Performance,publicToExternal.sol,True
+JiuZhou,JiuZhou/Data/Hidden/Incorrect inheritance order/contract without the bug/NoFalseOrder.sol,Data,NoFalseOrder.sol,False
+JiuZhou,JiuZhou/Data/Hidden/Incorrect inheritance order/contract without the bug/noInheritance.sol,Data,noInheritance.sol,False
+JiuZhou,JiuZhou/Data/Hidden/Incorrect inheritance order/bug contract/FalseOrder.sol,Data,FalseOrder.sol,True
+JiuZhou,JiuZhou/Data/Hidden/Hidden built-in symbols/bug contracts/hiddenSymbol.sol,Data,hiddenSymbol.sol,True
+JiuZhou,JiuZhou/Data/Hidden/Hidden built-in symbols/contract without the bugs/noHiddenSymbol.sol,Data,noHiddenSymbol.sol,False
+JiuZhou,JiuZhou/Data/Hidden/Hidden built-in symbols/misleading contracts/gray_Hidden.sol,Data,gray_Hidden.sol,False
+JiuZhou,JiuZhou/Data/Hidden/Hide state variables/misleading contract/gray_shadowingState.sol,Data,gray_shadowingState.sol,False
+JiuZhou,JiuZhou/Data/Hidden/Hide state variables/contract without the bug/NoShadowingState.sol,Data,NoShadowingState.sol,False
+JiuZhou,JiuZhou/Data/Hidden/Hide state variables/bug contract/shadowingState.sol,Data,shadowingState.sol,True
+JiuZhou,JiuZhou/Data/Initialization/Uninitialized storage variable/contract without the bug/NoUninitStorage.sol,Data,NoUninitStorage.sol,False
+JiuZhou,JiuZhou/Data/Initialization/Uninitialized storage variable/bug contract/UninitStorage.sol,Data,UninitStorage.sol,True
+JiuZhou,JiuZhou/Data/Initialization/Uninitialized state variables/contract without the bug/NoUninitStateVar.sol,Data,NoUninitStateVar.sol,False
+JiuZhou,JiuZhou/Data/Initialization/Uninitialized state variables/bug contract/uninitStateVar.sol,Data,uninitStateVar.sol,True
+JiuZhou,JiuZhou/Data/Initialization/Uninitialized local variables/contract without the bug/NoUninitLocalVar.sol,Data,NoUninitLocalVar.sol,False
+JiuZhou,JiuZhou/Data/Initialization/Uninitialized local variables/bug contract/uninitLocalVar.sol,Data,uninitLocalVar.sol,True
+JiuZhou,JiuZhou/Data/Calculation/Integer signedness/misleading contract/gray_IntegerSignednessError.sol,Data,gray_IntegerSignednessError.sol,False
+JiuZhou,JiuZhou/Data/Calculation/Integer signedness/contract without the bug/NoIntegerSignednessError.sol,Data,NoIntegerSignednessError.sol,False
+JiuZhou,JiuZhou/Data/Calculation/Integer signedness/bug contract/IntegerSignednessError.sol,Data,IntegerSignednessError.sol,True
+JiuZhou,JiuZhou/Data/Calculation/integer overflow and underflow/misleading contract/OverflowManully.sol,Data,OverflowManully.sol,False
+JiuZhou,JiuZhou/Data/Calculation/integer overflow and underflow/misleading contract/underFlowManully.sol,Data,underFlowManully.sol,False
+JiuZhou,JiuZhou/Data/Calculation/integer overflow and underflow/contract without the bug/NoUnderflow.sol,Data,NoUnderflow.sol,False
+JiuZhou,JiuZhou/Data/Calculation/integer overflow and underflow/contract without the bug/NoOverflow.sol,Data,NoOverflow.sol,False
+JiuZhou,JiuZhou/Data/Calculation/integer overflow and underflow/bug contract/Overflow.sol,Data,Overflow.sol,True
+JiuZhou,JiuZhou/Data/Calculation/integer overflow and underflow/bug contract/underFlow.sol,Data,underFlow.sol,True
+JiuZhou,JiuZhou/Data/Calculation/Integer truncation/misleading contract/gray_truncationError.sol,Data,gray_truncationError.sol,False
+JiuZhou,JiuZhou/Data/Calculation/Integer truncation/contract without the bug/NoTruncationError.sol,Data,NoTruncationError.sol,False
+JiuZhou,JiuZhou/Data/Calculation/Integer truncation/contract without the bug/NoTruncationError1.sol,Data,NoTruncationError1.sol,False
+JiuZhou,JiuZhou/Data/Calculation/Integer truncation/bug contract/truncationError.sol,Data,truncationError.sol,True
+JiuZhou,JiuZhou/Data/Calculation/Integer division/misleading contract/gray_IntegerDivision.sol,Data,gray_IntegerDivision.sol,False
+JiuZhou,JiuZhou/Data/Calculation/Integer division/contract without the bug/NointegerDivision.sol,Data,NointegerDivision.sol,False
+JiuZhou,JiuZhou/Data/Calculation/Integer division/bug contract/integerDivision.sol,Data,integerDivision.sol,True
+JiuZhou,JiuZhou/Data/Calculation/Wrong operator/contract without the bug/NoWrongOpe.sol,Data,NoWrongOpe.sol,False
+JiuZhou,JiuZhou/Data/Calculation/Wrong operator/bug contract/wrongOpe.sol,Data,wrongOpe.sol,True
+JiuZhou,JiuZhou/Interaction/Contract call/Re-entrancy vulnerability/misleading contract/gray_SimpleDAO.sol,Interaction,gray_SimpleDAO.sol,False
+JiuZhou,JiuZhou/Interaction/Contract call/Re-entrancy vulnerability/misleading contract/gray_re_entrancy.sol,Interaction,gray_re_entrancy.sol,False
+JiuZhou,JiuZhou/Interaction/Contract call/Re-entrancy vulnerability/contract without the bug/NoReentranceByTransfer.sol,Interaction,NoReentranceByTransfer.sol,False
+JiuZhou,JiuZhou/Interaction/Contract call/Re-entrancy vulnerability/contract without the bug/NoReentranceBySend.sol,Interaction,NoReentranceBySend.sol,False
+JiuZhou,JiuZhou/Interaction/Contract call/Re-entrancy vulnerability/bug contract/re-entrancy.sol,Interaction,re-entrancy.sol,True
+JiuZhou,JiuZhou/Interaction/Contract call/Re-entrancy vulnerability/bug contract/simpleDAO.sol,Interaction,simpleDAO.sol,True
+JiuZhou,JiuZhou/Interaction/Contract call/Re-entrancy vulnerability/bug contract/SplitReentrant.sol,Interaction,SplitReentrant.sol,True
+JiuZhou,JiuZhou/Interaction/Contract call/Unhandled exceptions/misleading contract/gray_unhandledException.sol,Interaction,gray_unhandledException.sol,False
+JiuZhou,JiuZhou/Interaction/Contract call/Unhandled exceptions/contract without the bug/NoUnhandledException2.sol,Interaction,NoUnhandledException2.sol,False
+JiuZhou,JiuZhou/Interaction/Contract call/Unhandled exceptions/contract without the bug/NoUnhandledException1.sol,Interaction,NoUnhandledException1.sol,False
+JiuZhou,JiuZhou/Interaction/Contract call/Unhandled exceptions/bug contract/unhandledException.sol,Interaction,unhandledException.sol,True
+JiuZhou,JiuZhou/Interaction/Ether flow/Locked money/misleading contract/gray_LockedMoney.sol,Interaction,gray_LockedMoney.sol,False
+JiuZhou,JiuZhou/Interaction/Ether flow/Locked money/contract without the bug/NoLockedMoney.sol,Interaction,NoLockedMoney.sol,False
+JiuZhou,JiuZhou/Interaction/Ether flow/Locked money/contract without the bug/NoLockedMoney1.sol,Interaction,NoLockedMoney1.sol,False
+JiuZhou,JiuZhou/Interaction/Ether flow/Locked money/bug contract/lockedMoney.sol,Interaction,lockedMoney.sol,True
+JiuZhou,JiuZhou/Interaction/Ether flow/Forced accept ethers/misleading contract/gray_BobAnswer.sol,Interaction,gray_BobAnswer.sol,False
+JiuZhou,JiuZhou/Interaction/Ether flow/Forced accept ethers/contract without the bug/NoBobAnswer.sol,Interaction,NoBobAnswer.sol,False
+JiuZhou,JiuZhou/Interaction/Ether flow/Forced accept ethers/bug contract/BobAnswer.sol,Interaction,BobAnswer.sol,True
+JiuZhou,JiuZhou/Interaction/Ether flow/Pre-sent ether/contract without the bug/NoPreSentEther.sol,Interaction,NoPreSentEther.sol,False
+JiuZhou,JiuZhou/Interaction/Ether flow/Pre-sent ether/bug contract/PreSentEther.sol,Interaction,PreSentEther.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-1inch-token/1inch-token-99fd056f91005ca521a02a005f7bcd8f77e06afc/contracts/ERC20Permit.sol,DAppSCAN-source,ERC20Permit.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Chainsulting-SWAPP Protocol-project1/openzeppelin-contracts-3.3.0/contracts/access/AccessControl.sol,DAppSCAN-source,AccessControl.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Chainsulting-GSPI Club-project2/openzeppelin-contracts-3.2.0/contracts/access/AccessControl.sol,DAppSCAN-source,AccessControl.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-EtherCamp_Hacker_Gold/virtual-accelerator-2529ffe5efd5294b44f1bc89dc9a4721a7b16409/HackerGold.sol,DAppSCAN-source,HackerGold.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-AaveV3/code/aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275/contracts/protocol/libraries/configuration/UserConfiguration.sol,DAppSCAN-source,UserConfiguration.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-AaveV3/code/aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275/contracts/protocol/libraries/logic/ReserveLogic.sol,DAppSCAN-source,ReserveLogic.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-AaveV3/code/aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275/contracts/protocol/libraries/logic/FlashLoanLogic.sol,DAppSCAN-source,FlashLoanLogic.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-GrowthDeFi WHEAT/wheat-v1-core-8360ac0a537589bb974e8a5a169bb3e7c95d2857/contracts/Exchange.sol,DAppSCAN-source,Exchange.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis/tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9/contracts/ERC677.sol,DAppSCAN-source,ERC677.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis/tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9/contracts/upgradeable_contracts/BaseFeeManager.sol,DAppSCAN-source,BaseFeeManager.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis/tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9/contracts/upgradeable_contracts/erc20_to_erc20/HomeBridgeErcToErc.sol,DAppSCAN-source,HomeBridgeErcToErc.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Iosiro-Synthetix Alnitak Release Smart Contract Audit/synthetix-00df930622a8ea462d15d4eccf6bc6b3d704bd21/contracts/Exchanger.sol,DAppSCAN-source,Exchanger.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Iosiro-Synthetix Alnitak Release Smart Contract Audit/synthetix-00df930622a8ea462d15d4eccf6bc6b3d704bd21/contracts/Synthetix.sol,DAppSCAN-source,Synthetix.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-LuckyToken/Lucky-Token-c9deec551edaa18f8419bbda5fca48776f191e80/contracts/LuckyToken.sol,DAppSCAN-source,LuckyToken.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/New_Alchemy_Security_Audit-The Abyss DAICO Smart Contract Audit (New)/abyss-daico-21d6232a802cd966b86629cadeac0b7f3816f719/Crowdsale.sol,DAppSCAN-source,Crowdsale.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-The_LAO/moloch-4bc443f4dad60279b47978fc6987bb978d3dfc58/contracts/Moloch.sol,DAppSCAN-source,Moloch.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-SpookySwap Integration & Fantom Expansion/bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129/contracts/6/protocol/strategies/spookyswap/SpookySwapStrategyWithdrawMinimizeTrading.sol,DAppSCAN-source,SpookySwapStrategyWithdrawMinimizeTrading.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-SpookySwap Integration & Fantom Expansion/bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129/contracts/6/protocol/strategies/spookyswap/SpookySwapStrategyPartialCloseLiquidate.sol,DAppSCAN-source,SpookySwapStrategyPartialCloseLiquidate.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-SpookySwap Integration & Fantom Expansion/bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129/contracts/6/protocol/strategies/spookyswap/SpookySwapStrategyPartialCloseMinimizeTrading.sol,DAppSCAN-source,SpookySwapStrategyPartialCloseMinimizeTrading.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-SpookySwap Integration & Fantom Expansion/bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129/contracts/6/protocol/strategies/spookyswap/SpookySwapStrategyAddBaseTokenOnly.sol,DAppSCAN-source,SpookySwapStrategyAddBaseTokenOnly.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-SpookySwap Integration & Fantom Expansion/bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129/contracts/6/protocol/strategies/spookyswap/SpookySwapStrategyAddTwoSidesOptimal.sol,DAppSCAN-source,SpookySwapStrategyAddTwoSidesOptimal.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-SpookySwap Integration & Fantom Expansion/bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129/contracts/6/protocol/strategies/spookyswap/SpookySwapStrategyLiquidate.sol,DAppSCAN-source,SpookySwapStrategyLiquidate.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-SpookySwap Integration & Fantom Expansion/bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129/contracts/6/protocol/workers/spookyswap/SpookyWorker03.sol,DAppSCAN-source,SpookyWorker03.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Coinfabrik-Beluga Pay (BBI) Security Audit/contractBBIT-master/bbi.sol,DAppSCAN-source,bbi.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-88mph/88mph-contracts-76cd9d1fc45e65f5d0f686621fe6af85c40aa140/contracts/rewards/xMPH.sol,DAppSCAN-source,xMPH.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Compound_Open_Oracle/open-oracle-e7a928334e5e454a88eec38e4ee1be5ee3b13f08/OpenOracleData.sol,DAppSCAN-source,OpenOracleData.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Compound_Open_Oracle/open-oracle-e7a928334e5e454a88eec38e4ee1be5ee3b13f08/DelFiPrice.sol,DAppSCAN-source,DelFiPrice.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-Zer0_zNS/zNS-b05e503ea1ee87dbe62b1d58426aaa518068e395/contracts/Registrar.sol,DAppSCAN-source,Registrar.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-Zer0_zNS/zNS-b05e503ea1ee87dbe62b1d58426aaa518068e395/contracts/StakingController.sol,DAppSCAN-source,StakingController.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-Vault/aleswap-vault-efd3f777b2e9aaa2c635d3d0f463f1884e998112/contracts/strategies/Warden/StrategyWardenLP.sol,DAppSCAN-source,StrategyWardenLP.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-FraxFinance/frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e/contracts/Frax/Frax.sol,DAppSCAN-source,Frax.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-FraxFinance/frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e/contracts/Frax/Pools/FraxPool.sol,DAppSCAN-source,FraxPool.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-FraxFinance/frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e/contracts/Curve/CurveAMO.sol,DAppSCAN-source,CurveAMO.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-FraxFinance/frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e/contracts/Curve/CurveAMO_V2.sol,DAppSCAN-source,CurveAMO_V2.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-FraxFinance/frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e/contracts/Misc_AMOs/InvestorAMO_V2.sol,DAppSCAN-source,InvestorAMO_V2.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Coinbae-Barnbridge_Staking_Pool/Staking0xb0Fa2BeEe3Cf36a7Ac7E99B885b48538Ab364853/contracts/Staking.sol,DAppSCAN-source,Staking.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-COSMOS_Fundraiser/fundraiser-lib-693cf3f32e9fd679216372876dda86fa57a3277e/src/truffle/contracts/Fundraiser.sol,DAppSCAN-source,Fundraiser.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Iosiro-Timvi Governance Token and Distribution DAO Smart Contract Audit/Timvi-Governance-a6e5929701b5da5ef9980b668216410245da59b7/Distribution.sol,DAppSCAN-source,Distribution.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Ackee_Blockchain-GoodGhosting/goodghosting-protocol-v1-dfda8d5d5990abb7f352bc9358ac950dce1bd677/goodghosting-protocol-v1-dfda8d5d5990abb7f352bc9358ac950dce1bd677/contracts/GoodGhosting.sol,DAppSCAN-source,GoodGhosting.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-COIN98/code/code.sol,DAppSCAN-source,code.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Smartdec-Boomstarter Smart Contracts Security Review/boomstarter-ico-ec2d28f0c3243b8f782cbd44522b5a9ca0fc22a8/contracts/BoomstarterICO.sol,DAppSCAN-source,BoomstarterICO.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Solidified-2Key [14.10.2019]/contracts-de171eb80e9ce1c6566a5d782f0a0549ab0151ad/contracts/2key/singleton-contracts/TwoKeyMaintainersRegistry.sol,DAppSCAN-source,TwoKeyMaintainersRegistry.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/SlowMist-wault.finance(WUSD) Smart Contract Security Audit Report/WUSD-91c541c2f1c0ac781ddcfb2be6a62555a5e1e8d1/WUSDMaster.sol,DAppSCAN-source,WUSDMaster.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-BNPL/BNPL-0ee587a081668dcab166a3a275b8a6c4794ead4d/contracts/BankingNode.sol,DAppSCAN-source,BankingNode.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Chainsecurity-Oasis  Multiply Smart Contracts/multiply-proxy-actions-e277ac1471a95138aaa93b39cf2c16c36c769740/contracts/multiply/MultiplyProxyActions.sol,DAppSCAN-source,MultiplyProxyActions.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-SpiritSwap-SpiritSwap/spiritswap-core-a23463f87fd3c7633e97fab5e8124b4499e1519e/SpiritRouter.sol,DAppSCAN-source,SpiritRouter.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-CryptoBatz Smart Contract/crypto-batz-contracts-07ee07dd442c34622798f1ee5b73ef8ff59cef48/contracts/CryptoBatz.sol,DAppSCAN-source,CryptoBatz.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Fuel_Token/FUEL-Contracts-3717b751bb2fa57ae300776a93ee4d7d7beb2c07/FuelToken.sol,DAppSCAN-source,FuelToken.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Fuel_Token/FUEL-Contracts-3717b751bb2fa57ae300776a93ee4d7d7beb2c07/FuelCrowdfund.sol,DAppSCAN-source,FuelCrowdfund.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-0x_v3_Staking/0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6/contracts/staking/contracts/src/Staking.sol,DAppSCAN-source,Staking.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-0x_v3_Staking/0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6/contracts/staking/contracts/src/staking_pools/MixinStakingPool.sol,DAppSCAN-source,MixinStakingPool.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-0x_v3_Staking/0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6/contracts/staking/contracts/src/libs/LibFixedMath.sol,DAppSCAN-source,LibFixedMath.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-0x_v3_Staking/0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6/contracts/staking/contracts/src/sys/MixinScheduler.sol,DAppSCAN-source,MixinScheduler.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-0x_v3_Staking/0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6/contracts/staking/contracts/src/interfaces/IStructs.sol,DAppSCAN-source,IStructs.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-0x_v3_Staking/0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6/contracts/dev-utils/contracts/src/LibAssetData.sol,DAppSCAN-source,LibAssetData.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-origin/origin-4b31657825523962434c6d4e4c61feb0bb1ee518/origin-contracts/contracts/marketplace/v00/Marketplace.sol,DAppSCAN-source,Marketplace.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-TrustSwap-V1/code/StakingPool.sol,DAppSCAN-source,StakingPool.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-hermez/contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78/contracts/auction/HermezAuctionProtocol.sol,DAppSCAN-source,HermezAuctionProtocol.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-hermez/contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78/contracts/withdrawalDelayer/WithdrawalDelayer.sol,DAppSCAN-source,WithdrawalDelayer.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-hermez/contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78/contracts/hermez/Hermez.sol,DAppSCAN-source,Hermez.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Chainsulting-GSPI Club-project3/code/spi_staking.sol,DAppSCAN-source,spi_staking.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-Paxos/simple-multisig-master/contracts/SimpleMultiSig.sol,DAppSCAN-source,SimpleMultiSig.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-VIDB - v1.0/VIDBToken/VIDBToken.sol,DAppSCAN-source,VIDBToken.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-Idle_Finance/idle-tranches-d94ee7194e8cb17db13b16c338f3e780b62f5435/contracts/IdleCDO.sol,DAppSCAN-source,IdleCDO.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Catharsis Smart Contract/catharsis-vesting-22d1bb2e234b79b10c33a4ec76ce2a98d2825364/contracts/Vesting.sol,DAppSCAN-source,Vesting.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Callisto_Network-IDEX Security Audit/idex-4a05eb28e570e9820066474ff2adc924ce7a27bd/MyToken.sol,DAppSCAN-source,MyToken.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-Spherium/code/code.sol,DAppSCAN-source,code.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-CGU/CGUToken0x747D74dB20cc422F39ab54EDB2A3Ce21f3C98AF1/contracts/CGUToken.sol,DAppSCAN-source,CGUToken.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-BitSliced Smart Contract/SLICED-Smart-Contract-d243190125c15dbe9628a844f764a5d0e484f3a0/Sliced.sol,DAppSCAN-source,Sliced.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Endaoment/endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add/Fund.sol,DAppSCAN-source,Fund.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Endaoment/endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add/SafeMath.sol,DAppSCAN-source,SafeMath.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Endaoment/endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add/FundFactory.sol,DAppSCAN-source,FundFactory.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Endaoment/endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add/Administratable.sol,DAppSCAN-source,Administratable.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-FujiProtocol/fuji-protocol-933ea57b11889d87744efa23e95c90b7bf589402/contracts/FujiVault.sol,DAppSCAN-source,FujiVault.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-FujiProtocol/fuji-protocol-933ea57b11889d87744efa23e95c90b7bf589402/contracts/abstracts/vault/VaultBaseUpgradeable.sol,DAppSCAN-source,VaultBaseUpgradeable.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/ImmuneBytes-SportsIcon-Audit Report/SportsIcon-Vesting-8a26ed5c3a52b7a4d1b22a38b40dd80783ecc6a3/SportsIconPrivateVesting.sol,DAppSCAN-source,SportsIconPrivateVesting.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Tenderize/tender-core-1fd606141625171fe792045ae9233890262d2d62/contracts/tenderizer/integrations/graph/Graph.sol,DAppSCAN-source,Graph.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Tenderize/tender-core-1fd606141625171fe792045ae9233890262d2d62/contracts/tenderizer/integrations/matic/Matic.sol,DAppSCAN-source,Matic.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Tenderize/tender-core-1fd606141625171fe792045ae9233890262d2d62/contracts/tenderizer/integrations/livepeer/Livepeer.sol,DAppSCAN-source,Livepeer.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/openzeppelin-Polymath/polymath-token-672fabe081e8f90ea025252d92c2eb247d60010e/contracts/PolyDistribution.sol,DAppSCAN-source,PolyDistribution.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/SlowMist-eden-network Smart Contract Security Audit Report/governance-e7b55f6e3f9c0d3ede7fd8bb39ae4fa7a4f4e79e/contracts/DistributorGovernance.sol,DAppSCAN-source,DistributorGovernance.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-LunaFi/lunafi-smart-contracts-6ff9a601e9bc72326b8e89f69daaa3105ed6afb0/claimToken.sol,DAppSCAN-source,claimToken.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-StackerVC/StackerVC_VentureFund001-3cfb98b21f4731dfd62993feb7c7d1540837f59b/contracts/Token/LPGauge.sol,DAppSCAN-source,LPGauge.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-StackerVC/StackerVC_VentureFund001-3cfb98b21f4731dfd62993feb7c7d1540837f59b/contracts/Treasury/VCTreasuryV1.sol,DAppSCAN-source,VCTreasuryV1.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Coinspect-Tempus Audit/tempus-protocol-ee5964bd416770e00639a4053b45f346e4bf8b93/contracts/TempusController.sol,DAppSCAN-source,TempusController.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Lido-Aave stETH/aave-protocol-v2-12c9111990c9699e84a36f30ba849486ef8f2a84/contracts/dependencies/openzeppelin/contracts/SignedSafeMath.sol,DAppSCAN-source,SignedSafeMath.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Lido-Aave stETH/aave-protocol-v2-12c9111990c9699e84a36f30ba849486ef8f2a84/contracts/protocol/tokenization/lido/VariableDebtStETH.sol,DAppSCAN-source,VariableDebtStETH.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Lido-Aave stETH/aave-protocol-v2-12c9111990c9699e84a36f30ba849486ef8f2a84/contracts/protocol/tokenization/lido/AStETH.sol,DAppSCAN-source,AStETH.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Yearn Finance-Yoracle.Link/yoracle.link-faf1309cbe7a05f70b338351315039eb8e5b9c09/contracts/Keep3rV1Volatility.sol,DAppSCAN-source,Keep3rV1Volatility.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Yearn Finance-Yoracle.Link/yoracle.link-faf1309cbe7a05f70b338351315039eb8e5b9c09/contracts/Keep3rV1Oracle.sol,DAppSCAN-source,Keep3rV1Oracle.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-MetaWaferse Smart Contract/code/MetaWaferse.sol,DAppSCAN-source,MetaWaferse.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Kingdom Raids/kr-nft-6dafe413dd90e5b1c1e85a5b8ec6c8fc71fd87af/kr-nft-6dafe413dd90e5b1c1e85a5b8ec6c8fc71fd87af/contracts/Summon.sol,DAppSCAN-source,Summon.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Kingdom Raids/kr-nft-6dafe413dd90e5b1c1e85a5b8ec6c8fc71fd87af/kr-nft-6dafe413dd90e5b1c1e85a5b8ec6c8fc71fd87af/contracts/Hero/Hero.sol,DAppSCAN-source,Hero.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Runtime_Vеrification-Stakefish_BatchDeposit/eth2-batch-deposit-a4912b2d839305da8447b7cec6b2f09238b90e37/contracts/BatchDeposits.sol,DAppSCAN-source,BatchDeposits.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-RedFox-V5/eth-bridge-contract-f0486c5e158bd29bc6280bc3844f7d689d4b7b19/contracts/ETHWAXBRIDGE.sol,DAppSCAN-source,ETHWAXBRIDGE.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-Liquity/dev-f0df3efa5a5f05b205752184cfce107c5bd6e06c/packages/contracts/contracts/BorrowerOperations.sol,DAppSCAN-source,BorrowerOperations.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-Liquity/dev-f0df3efa5a5f05b205752184cfce107c5bd6e06c/packages/contracts/contracts/LUSDToken.sol,DAppSCAN-source,LUSDToken.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-Liquity/dev-f0df3efa5a5f05b205752184cfce107c5bd6e06c/packages/contracts/contracts/TroveManager.sol,DAppSCAN-source,TroveManager.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-WSwap/WaultSwapFactory0xB42E3FE71b7E0673335b3331B3e1053BD9822570/WaultSwapFactory0xB42E3FE71b7E0673335b3331B3e1053BD9822570.sol,DAppSCAN-source,WaultSwapFactory0xB42E3FE71b7E0673335b3331B3e1053BD9822570.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Inspex-WSwap/WaultSwapRouter0xD48745E39BbED146eEC15b79cBF964884F9877c2/WaultSwapRouter0xD48745E39BbED146eEC15b79cBF964884F9877c2.sol,DAppSCAN-source,WaultSwapRouter0xD48745E39BbED146eEC15b79cBF964884F9877c2.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Kyte.One/kyte-core-contracts-d5685ad1298cafe91bed5d96f34496ec93c50b3c/TokenVesting.sol,DAppSCAN-source,TokenVesting.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Coinfabrik-Timvi Smart Contract Audit/Timvi-9324706d1160996f7847e1989c8567168261382e/contracts/services/leverage-exchange/ExchangeService.sol,DAppSCAN-source,ExchangeService.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Coinfabrik-Timvi Smart Contract Audit/Timvi-9324706d1160996f7847e1989c8567168261382e/contracts/services/leverage-exchange/LeverageService.sol,DAppSCAN-source,LeverageService.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Coinfabrik-Timvi Smart Contract Audit/Timvi-9324706d1160996f7847e1989c8567168261382e/contracts/services/bond/BondService.sol,DAppSCAN-source,BondService.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Coinfabrik-Timvi Smart Contract Audit/Timvi-9324706d1160996f7847e1989c8567168261382e/contracts/services/gate/Gate.sol,DAppSCAN-source,Gate.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-CoinMama Token Smart Contract/CoinMamaToken-aec477aa949921a883faa694c690cc0ec26eacfd/CoinMama.sol,DAppSCAN-source,CoinMama.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Blockchain Labs NZ-Leverj/staking-e8716e4a11881fad181b5330206d8b0c27a58510/contracts/Fee.sol,DAppSCAN-source,Fee.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-The Next War/Contracts-334fe81ea7282ac4f768de077c37a7932c0302de/contracts/TncToken.sol,DAppSCAN-source,TncToken.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-The Next War/Contracts-334fe81ea7282ac4f768de077c37a7932c0302de/contracts/Staking.sol,DAppSCAN-source,Staking.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-OmiseGo_MoreVP/plasma-contracts-e13aaf759c979cf6516c1d8de865c9e324bc2db6/plasma_framework/contracts/src/framework/PlasmaFramework.sol,DAppSCAN-source,PlasmaFramework.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-OmiseGo_MoreVP/plasma-contracts-e13aaf759c979cf6516c1d8de865c9e324bc2db6/plasma_framework/contracts/src/exits/payment/controllers/PaymentStartStandardExit.sol,DAppSCAN-source,PaymentStartStandardExit.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-1inch-Farming/farming-7a007ec7784cca2899889e99e46cf06d5788a7d9/contracts/ERC20Farmable.sol,DAppSCAN-source,ERC20Farmable.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-1inch-Farming/farming-7a007ec7784cca2899889e99e46cf06d5788a7d9/contracts/accounting/UserAccounting.sol,DAppSCAN-source,UserAccounting.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-Opyn/squeeth-monorepo-427ba395545de44920206deaa4bcc217b3964952/packages/hardhat/contracts/strategy/CrabStrategy.sol,DAppSCAN-source,CrabStrategy.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Chainsecurity-POA Network  OmniBridge/omnibridge-9e602a3719e32feabc18fc387b9474acfa28cfe2/contracts/upgradeable_contracts/components/common/TokensRelayer.sol,DAppSCAN-source,TokensRelayer.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-ACYC Token Smart Contracts/AllCoinsYieldCapital0xB56A1f3310578f23120182Fb2e58c087EFE6e147/src/contracts/acyc.sol,DAppSCAN-source,acyc.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Yearn Finance-Generic Lender/yearnV2-generic-lender-strat-979ef2f0e5da39ca59a5907c37ba2064fcd6be82/contracts/Strategy.sol,DAppSCAN-source,Strategy.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Yearn Finance-Generic Lender/yearnV2-generic-lender-strat-979ef2f0e5da39ca59a5907c37ba2064fcd6be82/contracts/GenericLender/GenericLenderBase.sol,DAppSCAN-source,GenericLenderBase.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-Yearn Finance-Generic Lender/yearnV2-generic-lender-strat-979ef2f0e5da39ca59a5907c37ba2064fcd6be82/contracts/Interfaces/GenericLender/IGeneric.sol,DAppSCAN-source,IGeneric.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Ground Zero/code/IDO.sol,DAppSCAN-source,IDO.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-Kalmar/leverage-yield-contracts-ad08aef5a2281639a3226f31d4d8d5aaba73967e/contracts/Bank.sol,DAppSCAN-source,Bank.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-Kalmar/leverage-yield-contracts-ad08aef5a2281639a3226f31d4d8d5aaba73967e/contracts/MasterChefGoblinConfig.sol,DAppSCAN-source,MasterChefGoblinConfig.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/consensys-rICO/rICO-smart-contracts-77517a4dceed53ff7c5a7f7580cb805831a7f8d5/ReversibleICO.sol,DAppSCAN-source,ReversibleICO.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Game of Silks/code/ERC721A.sol,DAppSCAN-source,ERC721A.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Callisto_Network-Fantom Token (FTM) Security Audit Report/code/Etherscan-0x4e15361fd6b4bb609fa63c81a2be19d873717870.sol,DAppSCAN-source,Etherscan-0x4e15361fd6b4bb609fa63c81a2be19d873717870.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Iosiro-Thales Airdrop and Staking Smart Contract Audit/contracts-a7a15db435b70be959f36c64f4367d54d68f3848/VestingEscrow.sol,DAppSCAN-source,VestingEscrow.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/PeckShield-Hegic_HardCore_Beta/hegic-hardcore-beta-e22e6f67f1ce99e1317fc52fa325b496464a95bd/contracts/Pool/HegicOperationalTreasury.sol,DAppSCAN-source,HegicOperationalTreasury.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/ImmuneBytes-BonFi(Liquidity)-Final Audit Report/code/Liquidity_v9(1).sol,DAppSCAN-source,Liquidity_v9(1).sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Hacken-Fidometa-V1/Smart_Contract-66f43e8644a20ed2ebbc4db94d6b2dcc797ac1c7/FidoMeta.sol,DAppSCAN-source,FidoMeta.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-dharma-smartwallet/dharma-smart-wallet-b1d510d03b97a9c8457b9c0b9c91568a09ccc95d/contracts/account-recovery/DharmaAccountRecoveryManager.sol,DAppSCAN-source,DharmaAccountRecoveryManager.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-dharma-smartwallet/dharma-smart-wallet-b1d510d03b97a9c8457b9c0b9c91568a09ccc95d/contracts/registries/DharmaKeyRegistryV1.sol,DAppSCAN-source,DharmaKeyRegistryV1.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Trail_of_Bits-dharma-smartwallet/dharma-smart-wallet-b1d510d03b97a9c8457b9c0b9c91568a09ccc95d/contracts/factories/smart-wallet/DharmaSmartWalletFactoryV1.sol,DAppSCAN-source,DharmaSmartWalletFactoryV1.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/QuillAudits-DOXY - v1.3/code/DoxyFinance_V3.sol,DAppSCAN-source,DoxyFinance_V3.sol,True
+DAppSCAN,DAppSCAN-main/DAppSCAN-source/contracts/Coinbae-Deus_Finance_DEAStaking/0x1D17d697cAAffE53bf3bFdE761c90D61F6ebdc41/DEAsingleStaking.sol,DAppSCAN-source,DEAsingleStaking.sol,True

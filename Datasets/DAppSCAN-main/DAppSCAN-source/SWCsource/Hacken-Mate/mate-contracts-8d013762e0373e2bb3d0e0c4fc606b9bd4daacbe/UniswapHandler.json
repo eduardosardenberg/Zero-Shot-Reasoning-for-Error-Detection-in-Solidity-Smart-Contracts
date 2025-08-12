@@ -1,0 +1,10 @@
+{
+ "filePath": "DAppSCAN-source/contracts/Hacken-Mate/mate-contracts-8d013762e0373e2bb3d0e0c4fc606b9bd4daacbe/UniswapHandler.sol",
+ "SWCs": [
+  {
+   "category": "SWC-116-Block values as a proxy for time",
+   "function": "_swap",
+   "lineNumber": "L38"
+  }
+ ]
+}

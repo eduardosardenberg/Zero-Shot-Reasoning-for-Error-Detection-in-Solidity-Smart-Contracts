@@ -1,0 +1,20 @@
+{
+ "filePath": "DAppSCAN-source/contracts/QuillAudits-Chronic Token Smart Contract/ChronicToken-bdc08c623c9b3db912b94a2f3271afd9ad1243ee/chronicToken.sol",
+ "SWCs": [
+  {
+   "category": "SWC-102-Outdated Compiler Version",
+   "function": "N/A",
+   "lineNumber": "L11"
+  },
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "includeInReward",
+   "lineNumber": "L847-858"
+  },
+  {
+   "category": "SWC-128-DoS With Block Gas Limit",
+   "function": "_getCurrentSupply",
+   "lineNumber": "L942-952"
+  }
+ ]
+}
