@@ -1,0 +1,326 @@
+[
+    {
+        "file": ".\\contracts\\QuillAudits-1inch-token\\1inch-token-99fd056f91005ca521a02a005f7bcd8f77e06afc\\contracts\\ERC20Permit.sol",
+        "location": ".\\SWCsource\\QuillAudits-1inch-token\\1inch-token-99fd056f91005ca521a02a005f7bcd8f77e06afc\\contracts\\ERC20Permit.json"
+    },
+    {
+        "file": ".\\contracts\\Chainsulting-SWAPP Protocol-project1\\openzeppelin-contracts-3.3.0\\contracts\\access\\AccessControl.sol",
+        "location": ".\\SWCsource\\Chainsulting-SWAPP Protocol-project1\\openzeppelin-contracts-3.3.0\\contracts\\access\\AccessControl.json"
+    },
+    {
+        "file": ".\\contracts\\Chainsulting-GSPI Club-project2\\openzeppelin-contracts-3.2.0\\contracts\\access\\AccessControl.sol",
+        "location": ".\\SWCsource\\Chainsulting-GSPI Club-project2\\openzeppelin-contracts-3.2.0\\contracts\\access\\AccessControl.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-EtherCamp_Hacker_Gold\\virtual-accelerator-2529ffe5efd5294b44f1bc89dc9a4721a7b16409\\HackerGold.sol",
+        "location": ".\\SWCsource\\openzeppelin-EtherCamp_Hacker_Gold\\virtual-accelerator-2529ffe5efd5294b44f1bc89dc9a4721a7b16409\\HackerGold.json"
+    },
+    {
+        "file": ".\\contracts\\PeckShield-AaveV3\\code\\aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275\\contracts\\protocol\\libraries\\configuration\\UserConfiguration.sol",
+        "location": ".\\SWCsource\\PeckShield-AaveV3\\code\\aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275\\contracts\\protocol\\libraries\\configuration\\UserConfiguration.json"
+    },
+    {
+        "file": ".\\contracts\\PeckShield-AaveV3\\code\\aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275\\contracts\\protocol\\libraries\\logic\\ReserveLogic.sol",
+        "location": ".\\SWCsource\\PeckShield-AaveV3\\code\\aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275\\contracts\\protocol\\libraries\\logic\\ReserveLogic.json"
+    },
+    {
+        "file": ".\\contracts\\PeckShield-AaveV3\\code\\aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275\\contracts\\protocol\\libraries\\logic\\FlashLoanLogic.sol",
+        "location": ".\\SWCsource\\PeckShield-AaveV3\\code\\aave-v3-core-14f6148e21b477d78347db6a1603039c9559e275\\contracts\\protocol\\libraries\\logic\\FlashLoanLogic.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-GrowthDeFi WHEAT\\wheat-v1-core-8360ac0a537589bb974e8a5a169bb3e7c95d2857\\contracts\\Exchange.sol",
+        "location": ".\\SWCsource\\consensys-GrowthDeFi WHEAT\\wheat-v1-core-8360ac0a537589bb974e8a5a169bb3e7c95d2857\\contracts\\Exchange.json"
+    },
+    {
+        "file": ".\\contracts\\Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis\\tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9\\contracts\\ERC677.sol",
+        "location": ".\\SWCsource\\Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis\\tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9\\contracts\\ERC677.json"
+    },
+    {
+        "file": ".\\contracts\\Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis\\tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9\\contracts\\upgradeable_contracts\\BaseFeeManager.sol",
+        "location": ".\\SWCsource\\Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis\\tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9\\contracts\\upgradeable_contracts\\BaseFeeManager.json"
+    },
+    {
+        "file": ".\\contracts\\Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis\\tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9\\contracts\\upgradeable_contracts\\erc20_to_erc20\\HomeBridgeErcToErc.sol",
+        "location": ".\\SWCsource\\Smartdec-TokenBridge (by POA Network) Smart Contracts Security Analysis\\tokenbridge-contracts-bbb97a63c900f03a902d0e82358abac3b294e4d9\\contracts\\upgradeable_contracts\\erc20_to_erc20\\HomeBridgeErcToErc.json"
+    },
+    {
+        "file": ".\\contracts\\Iosiro-Synthetix Alnitak Release Smart Contract Audit\\synthetix-00df930622a8ea462d15d4eccf6bc6b3d704bd21\\contracts\\Exchanger.sol",
+        "location": ".\\SWCsource\\Iosiro-Synthetix Alnitak Release Smart Contract Audit\\synthetix-00df930622a8ea462d15d4eccf6bc6b3d704bd21\\contracts\\Exchanger.json"
+    },
+    {
+        "file": ".\\contracts\\Iosiro-Synthetix Alnitak Release Smart Contract Audit\\synthetix-00df930622a8ea462d15d4eccf6bc6b3d704bd21\\contracts\\Synthetix.sol",
+        "location": ".\\SWCsource\\Iosiro-Synthetix Alnitak Release Smart Contract Audit\\synthetix-00df930622a8ea462d15d4eccf6bc6b3d704bd21\\contracts\\Synthetix.json"
+    },
+    {
+        "file": ".\\contracts\\PeckShield-LuckyToken\\Lucky-Token-c9deec551edaa18f8419bbda5fca48776f191e80\\contracts\\LuckyToken.sol",
+        "location": ".\\SWCsource\\PeckShield-LuckyToken\\Lucky-Token-c9deec551edaa18f8419bbda5fca48776f191e80\\contracts\\LuckyToken.json"
+    },
+    {
+        "file": ".\\contracts\\New_Alchemy_Security_Audit-The Abyss DAICO Smart Contract Audit (New)\\abyss-daico-21d6232a802cd966b86629cadeac0b7f3816f719\\Crowdsale.sol",
+        "location": ".\\SWCsource\\New_Alchemy_Security_Audit-The Abyss DAICO Smart Contract Audit (New)\\abyss-daico-21d6232a802cd966b86629cadeac0b7f3816f719\\Crowdsale.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-The_LAO\\moloch-4bc443f4dad60279b47978fc6987bb978d3dfc58\\contracts\\Moloch.sol",
+        "location": ".\\SWCsource\\consensys-The_LAO\\moloch-4bc443f4dad60279b47978fc6987bb978d3dfc58\\contracts\\Moloch.json"
+    },
+    {
+        "file": ".\\contracts\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyWithdrawMinimizeTrading.sol",
+        "location": ".\\SWCsource\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyWithdrawMinimizeTrading.json"
+    },
+    {
+        "file": ".\\contracts\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyPartialCloseLiquidate.sol",
+        "location": ".\\SWCsource\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyPartialCloseLiquidate.json"
+    },
+    {
+        "file": ".\\contracts\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyPartialCloseMinimizeTrading.sol",
+        "location": ".\\SWCsource\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyPartialCloseMinimizeTrading.json"
+    },
+    {
+        "file": ".\\contracts\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyAddBaseTokenOnly.sol",
+        "location": ".\\SWCsource\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyAddBaseTokenOnly.json"
+    },
+    {
+        "file": ".\\contracts\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyAddTwoSidesOptimal.sol",
+        "location": ".\\SWCsource\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyAddTwoSidesOptimal.json"
+    },
+    {
+        "file": ".\\contracts\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyLiquidate.sol",
+        "location": ".\\SWCsource\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\strategies\\spookyswap\\SpookySwapStrategyLiquidate.json"
+    },
+    {
+        "file": ".\\contracts\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\workers\\spookyswap\\SpookyWorker03.sol",
+        "location": ".\\SWCsource\\Inspex-SpookySwap Integration & Fantom Expansion\\bsc-alpaca-contract-4553a34a6dcfcfbf7aebc693bb5c5c6074c73129\\contracts\\6\\protocol\\workers\\spookyswap\\SpookyWorker03.json"
+    },
+    {
+        "file": ".\\contracts\\Coinfabrik-Beluga Pay (BBI) Security Audit\\contractBBIT-master\\bbi.sol",
+        "location": ".\\SWCsource\\Coinfabrik-Beluga Pay (BBI) Security Audit\\contractBBIT-master\\bbi.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-88mph\\88mph-contracts-76cd9d1fc45e65f5d0f686621fe6af85c40aa140\\contracts\\rewards\\xMPH.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-88mph\\88mph-contracts-76cd9d1fc45e65f5d0f686621fe6af85c40aa140\\contracts\\rewards\\xMPH.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Compound_Open_Oracle\\open-oracle-e7a928334e5e454a88eec38e4ee1be5ee3b13f08\\OpenOracleData.sol",
+        "location": ".\\SWCsource\\openzeppelin-Compound_Open_Oracle\\open-oracle-e7a928334e5e454a88eec38e4ee1be5ee3b13f08\\OpenOracleData.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Compound_Open_Oracle\\open-oracle-e7a928334e5e454a88eec38e4ee1be5ee3b13f08\\DelFiPrice.sol",
+        "location": ".\\SWCsource\\openzeppelin-Compound_Open_Oracle\\open-oracle-e7a928334e5e454a88eec38e4ee1be5ee3b13f08\\DelFiPrice.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-Zer0_zNS\\zNS-b05e503ea1ee87dbe62b1d58426aaa518068e395\\contracts\\Registrar.sol",
+        "location": ".\\SWCsource\\consensys-Zer0_zNS\\zNS-b05e503ea1ee87dbe62b1d58426aaa518068e395\\contracts\\Registrar.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-Zer0_zNS\\zNS-b05e503ea1ee87dbe62b1d58426aaa518068e395\\contracts\\StakingController.sol",
+        "location": ".\\SWCsource\\consensys-Zer0_zNS\\zNS-b05e503ea1ee87dbe62b1d58426aaa518068e395\\contracts\\StakingController.json"
+    },
+    {
+        "file": ".\\contracts\\Inspex-Vault\\aleswap-vault-efd3f777b2e9aaa2c635d3d0f463f1884e998112\\contracts\\strategies\\Warden\\StrategyWardenLP.sol",
+        "location": ".\\SWCsource\\Inspex-Vault\\aleswap-vault-efd3f777b2e9aaa2c635d3d0f463f1884e998112\\contracts\\strategies\\Warden\\StrategyWardenLP.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Frax\\Frax.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Frax\\Frax.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Frax\\Pools\\FraxPool.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Frax\\Pools\\FraxPool.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Curve\\CurveAMO.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Curve\\CurveAMO.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Curve\\CurveAMO_V2.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Curve\\CurveAMO_V2.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Misc_AMOs\\InvestorAMO_V2.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-FraxFinance\\frax-solidity-3f0993a70e3496fd27887db7754d68709c84015e\\contracts\\Misc_AMOs\\InvestorAMO_V2.json"
+    },
+    {
+        "file": ".\\contracts\\Coinbae-Barnbridge_Staking_Pool\\Staking0xb0Fa2BeEe3Cf36a7Ac7E99B885b48538Ab364853\\contracts\\Staking.sol",
+        "location": ".\\SWCsource\\Coinbae-Barnbridge_Staking_Pool\\Staking0xb0Fa2BeEe3Cf36a7Ac7E99B885b48538Ab364853\\contracts\\Staking.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-COSMOS_Fundraiser\\fundraiser-lib-693cf3f32e9fd679216372876dda86fa57a3277e\\src\\truffle\\contracts\\Fundraiser.sol",
+        "location": ".\\SWCsource\\openzeppelin-COSMOS_Fundraiser\\fundraiser-lib-693cf3f32e9fd679216372876dda86fa57a3277e\\src\\truffle\\contracts\\Fundraiser.json"
+    },
+    {
+        "file": ".\\contracts\\Iosiro-Timvi Governance Token and Distribution DAO Smart Contract Audit\\Timvi-Governance-a6e5929701b5da5ef9980b668216410245da59b7\\Distribution.sol",
+        "location": ".\\SWCsource\\Iosiro-Timvi Governance Token and Distribution DAO Smart Contract Audit\\Timvi-Governance-a6e5929701b5da5ef9980b668216410245da59b7\\Distribution.json"
+    },
+    {
+        "file": ".\\contracts\\Ackee_Blockchain-GoodGhosting\\goodghosting-protocol-v1-dfda8d5d5990abb7f352bc9358ac950dce1bd677\\goodghosting-protocol-v1-dfda8d5d5990abb7f352bc9358ac950dce1bd677\\contracts\\GoodGhosting.sol",
+        "location": ".\\SWCsource\\Ackee_Blockchain-GoodGhosting\\goodghosting-protocol-v1-dfda8d5d5990abb7f352bc9358ac950dce1bd677\\goodghosting-protocol-v1-dfda8d5d5990abb7f352bc9358ac950dce1bd677\\contracts\\GoodGhosting.json"
+    },
+    {
+        "file": ".\\contracts\\PeckShield-COIN98\\code\\code.sol",
+        "location": ".\\SWCsource\\PeckShield-COIN98\\code\\code.json"
+    },
+    {
+        "file": ".\\contracts\\Smartdec-Boomstarter Smart Contracts Security Review\\boomstarter-ico-ec2d28f0c3243b8f782cbd44522b5a9ca0fc22a8\\contracts\\BoomstarterICO.sol",
+        "location": ".\\SWCsource\\Smartdec-Boomstarter Smart Contracts Security Review\\boomstarter-ico-ec2d28f0c3243b8f782cbd44522b5a9ca0fc22a8\\contracts\\BoomstarterICO.json"
+    },
+    {
+        "file": ".\\contracts\\Solidified-2Key [14.10.2019]\\contracts-de171eb80e9ce1c6566a5d782f0a0549ab0151ad\\contracts\\2key\\singleton-contracts\\TwoKeyMaintainersRegistry.sol",
+        "location": ".\\SWCsource\\Solidified-2Key [14.10.2019]\\contracts-de171eb80e9ce1c6566a5d782f0a0549ab0151ad\\contracts\\2key\\singleton-contracts\\TwoKeyMaintainersRegistry.json"
+    },
+    {
+        "file": ".\\contracts\\SlowMist-wault.finance(WUSD) Smart Contract Security Audit Report\\WUSD-91c541c2f1c0ac781ddcfb2be6a62555a5e1e8d1\\WUSDMaster.sol",
+        "location": ".\\SWCsource\\SlowMist-wault.finance(WUSD) Smart Contract Security Audit Report\\WUSD-91c541c2f1c0ac781ddcfb2be6a62555a5e1e8d1\\WUSDMaster.json"
+    },
+    {
+        "file": ".\\contracts\\PeckShield-BNPL\\BNPL-0ee587a081668dcab166a3a275b8a6c4794ead4d\\contracts\\BankingNode.sol",
+        "location": ".\\SWCsource\\PeckShield-BNPL\\BNPL-0ee587a081668dcab166a3a275b8a6c4794ead4d\\contracts\\BankingNode.json"
+    },
+    {
+        "file": ".\\contracts\\Chainsecurity-Oasis  Multiply Smart Contracts\\multiply-proxy-actions-e277ac1471a95138aaa93b39cf2c16c36c769740\\contracts\\multiply\\MultiplyProxyActions.sol",
+        "location": ".\\SWCsource\\Chainsecurity-Oasis  Multiply Smart Contracts\\multiply-proxy-actions-e277ac1471a95138aaa93b39cf2c16c36c769740\\contracts\\multiply\\MultiplyProxyActions.json"
+    },
+    {
+        "file": ".\\contracts\\QuillAudits-SpiritSwap-SpiritSwap\\spiritswap-core-a23463f87fd3c7633e97fab5e8124b4499e1519e\\SpiritRouter.sol",
+        "location": ".\\SWCsource\\QuillAudits-SpiritSwap-SpiritSwap\\spiritswap-core-a23463f87fd3c7633e97fab5e8124b4499e1519e\\SpiritRouter.json"
+    },
+    {
+        "file": ".\\contracts\\QuillAudits-CryptoBatz Smart Contract\\crypto-batz-contracts-07ee07dd442c34622798f1ee5b73ef8ff59cef48\\contracts\\CryptoBatz.sol",
+        "location": ".\\SWCsource\\QuillAudits-CryptoBatz Smart Contract\\crypto-batz-contracts-07ee07dd442c34622798f1ee5b73ef8ff59cef48\\contracts\\CryptoBatz.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Fuel_Token\\FUEL-Contracts-3717b751bb2fa57ae300776a93ee4d7d7beb2c07\\FuelToken.sol",
+        "location": ".\\SWCsource\\openzeppelin-Fuel_Token\\FUEL-Contracts-3717b751bb2fa57ae300776a93ee4d7d7beb2c07\\FuelToken.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Fuel_Token\\FUEL-Contracts-3717b751bb2fa57ae300776a93ee4d7d7beb2c07\\FuelCrowdfund.sol",
+        "location": ".\\SWCsource\\openzeppelin-Fuel_Token\\FUEL-Contracts-3717b751bb2fa57ae300776a93ee4d7d7beb2c07\\FuelCrowdfund.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\Staking.sol",
+        "location": ".\\SWCsource\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\Staking.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\staking_pools\\MixinStakingPool.sol",
+        "location": ".\\SWCsource\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\staking_pools\\MixinStakingPool.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\libs\\LibFixedMath.sol",
+        "location": ".\\SWCsource\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\libs\\LibFixedMath.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\sys\\MixinScheduler.sol",
+        "location": ".\\SWCsource\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\sys\\MixinScheduler.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\interfaces\\IStructs.sol",
+        "location": ".\\SWCsource\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\staking\\contracts\\src\\interfaces\\IStructs.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\dev-utils\\contracts\\src\\LibAssetData.sol",
+        "location": ".\\SWCsource\\consensys-0x_v3_Staking\\0x-monorepo-b8e01d7be535196a3145a431291183ecfbb333c6\\contracts\\dev-utils\\contracts\\src\\LibAssetData.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-origin\\origin-4b31657825523962434c6d4e4c61feb0bb1ee518\\origin-contracts\\contracts\\marketplace\\v00\\Marketplace.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-origin\\origin-4b31657825523962434c6d4e4c61feb0bb1ee518\\origin-contracts\\contracts\\marketplace\\v00\\Marketplace.json"
+    },
+    {
+        "file": ".\\contracts\\Hacken-TrustSwap-V1\\code\\StakingPool.sol",
+        "location": ".\\SWCsource\\Hacken-TrustSwap-V1\\code\\StakingPool.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-hermez\\contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78\\contracts\\auction\\HermezAuctionProtocol.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-hermez\\contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78\\contracts\\auction\\HermezAuctionProtocol.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-hermez\\contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78\\contracts\\withdrawalDelayer\\WithdrawalDelayer.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-hermez\\contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78\\contracts\\withdrawalDelayer\\WithdrawalDelayer.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-hermez\\contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78\\contracts\\hermez\\Hermez.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-hermez\\contracts-d52ed73a0c7deaf06fcb0f981e14326f95cd1b78\\contracts\\hermez\\Hermez.json"
+    },
+    {
+        "file": ".\\contracts\\Chainsulting-GSPI Club-project3\\code\\spi_staking.sol",
+        "location": ".\\SWCsource\\Chainsulting-GSPI Club-project3\\code\\spi_staking.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-Paxos\\simple-multisig-master\\contracts\\SimpleMultiSig.sol",
+        "location": ".\\SWCsource\\consensys-Paxos\\simple-multisig-master\\contracts\\SimpleMultiSig.json"
+    },
+    {
+        "file": ".\\contracts\\QuillAudits-VIDB - v1.0\\VIDBToken\\VIDBToken.sol",
+        "location": ".\\SWCsource\\QuillAudits-VIDB - v1.0\\VIDBToken\\VIDBToken.json"
+    },
+    {
+        "file": ".\\contracts\\consensys-Idle_Finance\\idle-tranches-d94ee7194e8cb17db13b16c338f3e780b62f5435\\contracts\\IdleCDO.sol",
+        "location": ".\\SWCsource\\consensys-Idle_Finance\\idle-tranches-d94ee7194e8cb17db13b16c338f3e780b62f5435\\contracts\\IdleCDO.json"
+    },
+    {
+        "file": ".\\contracts\\QuillAudits-Catharsis Smart Contract\\catharsis-vesting-22d1bb2e234b79b10c33a4ec76ce2a98d2825364\\contracts\\Vesting.sol",
+        "location": ".\\SWCsource\\QuillAudits-Catharsis Smart Contract\\catharsis-vesting-22d1bb2e234b79b10c33a4ec76ce2a98d2825364\\contracts\\Vesting.json"
+    },
+    {
+        "file": ".\\contracts\\Callisto_Network-IDEX Security Audit\\idex-4a05eb28e570e9820066474ff2adc924ce7a27bd\\MyToken.sol",
+        "location": ".\\SWCsource\\Callisto_Network-IDEX Security Audit\\idex-4a05eb28e570e9820066474ff2adc924ce7a27bd\\MyToken.json"
+    },
+    {
+        "file": ".\\contracts\\PeckShield-Spherium\\code\\code.sol",
+        "location": ".\\SWCsource\\PeckShield-Spherium\\code\\code.json"
+    },
+    {
+        "file": ".\\contracts\\Hacken-CGU\\CGUToken0x747D74dB20cc422F39ab54EDB2A3Ce21f3C98AF1\\contracts\\CGUToken.sol",
+        "location": ".\\SWCsource\\Hacken-CGU\\CGUToken0x747D74dB20cc422F39ab54EDB2A3Ce21f3C98AF1\\contracts\\CGUToken.json"
+    },
+    {
+        "file": ".\\contracts\\QuillAudits-BitSliced Smart Contract\\SLICED-Smart-Contract-d243190125c15dbe9628a844f764a5d0e484f3a0\\Sliced.sol",
+        "location": ".\\SWCsource\\QuillAudits-BitSliced Smart Contract\\SLICED-Smart-Contract-d243190125c15dbe9628a844f764a5d0e484f3a0\\Sliced.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Endaoment\\endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add\\Fund.sol",
+        "location": ".\\SWCsource\\openzeppelin-Endaoment\\endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add\\Fund.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Endaoment\\endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add\\SafeMath.sol",
+        "location": ".\\SWCsource\\openzeppelin-Endaoment\\endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add\\SafeMath.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Endaoment\\endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add\\FundFactory.sol",
+        "location": ".\\SWCsource\\openzeppelin-Endaoment\\endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add\\FundFactory.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Endaoment\\endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add\\Administratable.sol",
+        "location": ".\\SWCsource\\openzeppelin-Endaoment\\endaoment-contracts-f60aa253d3d869ad6460877f23e6092acb313add\\Administratable.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-FujiProtocol\\fuji-protocol-933ea57b11889d87744efa23e95c90b7bf589402\\contracts\\FujiVault.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-FujiProtocol\\fuji-protocol-933ea57b11889d87744efa23e95c90b7bf589402\\contracts\\FujiVault.json"
+    },
+    {
+        "file": ".\\contracts\\Trail_of_Bits-FujiProtocol\\fuji-protocol-933ea57b11889d87744efa23e95c90b7bf589402\\contracts\\abstracts\\vault\\VaultBaseUpgradeable.sol",
+        "location": ".\\SWCsource\\Trail_of_Bits-FujiProtocol\\fuji-protocol-933ea57b11889d87744efa23e95c90b7bf589402\\contracts\\abstracts\\vault\\VaultBaseUpgradeable.json"
+    },
+    {
+        "file": ".\\contracts\\ImmuneBytes-SportsIcon-Audit Report\\SportsIcon-Vesting-8a26ed5c3a52b7a4d1b22a38b40dd80783ecc6a3\\SportsIconPrivateVesting.sol",
+        "location": ".\\SWCsource\\ImmuneBytes-SportsIcon-Audit Report\\SportsIcon-Vesting-8a26ed5c3a52b7a4d1b22a38b40dd80783ecc6a3\\SportsIconPrivateVesting.json"
+    },
+    {
+        "file": ".\\contracts\\Hacken-Tenderize\\tender-core-1fd606141625171fe792045ae9233890262d2d62\\contracts\\tenderizer\\integrations\\graph\\Graph.sol",
+        "location": ".\\SWCsource\\Hacken-Tenderize\\tender-core-1fd606141625171fe792045ae9233890262d2d62\\contracts\\tenderizer\\integrations\\graph\\Graph.json"
+    },
+    {
+        "file": ".\\contracts\\Hacken-Tenderize\\tender-core-1fd606141625171fe792045ae9233890262d2d62\\contracts\\tenderizer\\integrations\\matic\\Matic.sol",
+        "location": ".\\SWCsource\\Hacken-Tenderize\\tender-core-1fd606141625171fe792045ae9233890262d2d62\\contracts\\tenderizer\\integrations\\matic\\Matic.json"
+    },
+    {
+        "file": ".\\contracts\\Hacken-Tenderize\\tender-core-1fd606141625171fe792045ae9233890262d2d62\\contracts\\tenderizer\\integrations\\livepeer\\Livepeer.sol",
+        "location": ".\\SWCsource\\Hacken-Tenderize\\tender-core-1fd606141625171fe792045ae9233890262d2d62\\contracts\\tenderizer\\integrations\\livepeer\\Livepeer.json"
+    },
+    {
+        "file": ".\\contracts\\openzeppelin-Polymath\\polymath-token-672fabe081e8f90ea025252d92c2eb247d60010e\\contracts\\PolyDistribution.sol",
+        "location": ".\\SWCsource\\openzeppelin-Polymath\\polymath-token-672fabe081e8f90ea025252d92c2eb247d60010e\\contracts\\PolyDistribution.json"
+    },
+    {
+        "file": ".\\contracts\\SlowMist-eden-network Smart Contract Security Audit Report\\governance-e7b55f6e3f9c0d3ede7fd8bb39ae4fa7a4f4e79e\\contracts\\DistributorGovernance.sol",
+        "location": ".\\SWCsource\\SlowMist-eden-network Smart Contract Security Audit Report\\governance-e7b55f6e3f9c0d3ede7fd8bb39ae4fa7a4f4e79e\\contracts\\DistributorGovernance.json"
+    }
+]

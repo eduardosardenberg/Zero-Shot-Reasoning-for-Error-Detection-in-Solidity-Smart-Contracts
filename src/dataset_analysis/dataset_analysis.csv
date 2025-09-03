@@ -1,6 +1,6 @@
 dataset_name,total_files,error_files,error_rate
-DAppSCAN,134,134,100.0
-JiuZhou,168,66,39.285714285714285
+DAppSCAN,200,200,100.0
+JiuZhou,102,0,0.0
 UniswapV2,12,0,0.0
 UniswapV3,62,0,0.0
 openZeppelin,24,0,0.0
