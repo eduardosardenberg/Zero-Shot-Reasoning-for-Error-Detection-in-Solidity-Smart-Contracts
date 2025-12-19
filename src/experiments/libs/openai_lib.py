@@ -7,7 +7,6 @@ load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-
 # Use the OpenAI API to execute the prompt
 def call_openai(model_name, prompt, max_attempts=1, timeout=20):
     attempt = 0

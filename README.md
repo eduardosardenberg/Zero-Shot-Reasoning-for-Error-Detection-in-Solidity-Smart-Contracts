@@ -1,56 +1,62 @@
 # Smart-Contract-LLM-Evaluation
 
-This repository provides datasets and source code for evaluating the capabilities of large language models (LLMs) in both detecting and explaining vulnerabilities in Solidity smart contracts. It supports zero-shot experiments across different reasoning strategies and includes both quantitative (e.g., F1-score) and qualitative (e.g., explanation correctness, completeness, and clarity) evaluation.
+This repository provides datasets and code to evaluate the ability of LLMs to detect and explain vulnerabilities in Solidity smart contracts. It supports zero-shot experiments with different reasoning strategies and includes both quantitative and qualitative evaluations.
 
 ---
 
 ## Project Structure
 
 ```
-Datasets/
-    bugLocation.json
-    dataset.csv
-    DAppSCAN-main/
-    JiuZhou/
-    openzeppelin-contracts-master/
-    v2-core-master/
-    v3-core-main/
 src/
-    dataset_analysis/
-        dataset_analysis.ipynb
-        dataset_analysis.csv
-    experiments/
-        gpt_4.1.ipynb
-        gpt_4.1-mini.ipynb
-        gpt_4.1-nano.ipynb
-        gpt_4o.ipynb
-        gpt_4o_mini.ipynb
-        o1.ipynb
-        o3-mini.ipynb
-        o4-mini.ipynb
-        libs/
-            exp_utils.py
-            openai.py
-            prompts.py
-requirements.txt
-.env
+├── dataset_analysis/
+│   ├── dataset_analysis.csv
+│   └── dataset_analysis.ipynb
+├── experiments/
+│   ├── __init__.py
+│   ├── anthropic_models/
+│   │   ├── claude-3-haiku.ipynb
+│   │   ├── claude-3-opus.ipynb
+│   │   └── claude-3-sonnet.ipynb
+│   ├── gemini_models/
+│   │   ├── gemini-1.5-flash.ipynb
+│   │   ├── gemini-2.0-flash.ipynb
+│   │   └── gemini-2.0-pro.ipynb
+│   ├── gpt_models/
+│   │   ├── __init__.py
+│   │   ├── gpt_4.1-mini.ipynb
+│   │   ├── gpt_4.1-nano.ipynb
+│   │   ├── gpt_4.1.ipynb
+│   │   ├── gpt_4o_mini.ipynb
+│   │   ├── gpt_4o.ipynb
+│   │   ├── o1.ipynb
+│   │   ├── o3-mini.ipynb
+│   │   └── o4-mini.ipynb
+│   └── libs/
+│       ├── __init__.py
+│       ├── anthropic_lib.py
+│       ├── exp_utils.py
+│       ├── gemini_lib.py
+│       ├── openai_lib.py
+│       └── prompts.py
+│       └── __pycache__/
 ```
 
 ---
 
 ## Main Components
 
-- **.env**: Environment variables for API keys and configuration.
-- **Datasets/**: Contains datasets and Solidity source code from various audits and projects.
-    - `dataset.csv`: Main dataset with vulnerability annotations.
-    - `bugLocation.json`: Ground truth metadata for vulnerability locations.
-    - Subfolders (e.g., `DAppSCAN-main/`, `JiuZhou/`, etc.): Source files and audits.
-- **src/dataset_analysis/**: Code and notebooks for statistical and qualitative exploration of the dataset.
-- **src/experiments/**: Zero-shot experiments using various LLMs and reasoning strategies.
-    - `libs/exp_utils.py`: Utilities for both quantitative and qualitative evaluation.
-    - `libs/openai.py`: OpenAI API wrapper.
-    - `libs/prompts.py`: Prompt templates for each reasoning technique.
-- **requirements.txt**: Python dependencies for running the project.
+- `dataset_analysis/`: Exploratory analysis of the dataset.
+    - `dataset_analysis.csv`: Main dataset with vulnerability annotations.
+    - `dataset_analysis.ipynb`: Notebook for dataset exploration and statistics.
+- `experiments/anthropic_models/`: Notebooks for experiments with Claude 3 models (Haiku, Opus, Sonnet).
+- `experiments/gemini_models/`: Notebooks for experiments with Gemini models (1.5, 2.0, Flash, Pro).
+- `experiments/gpt_models/`: Notebooks for experiments with GPT models (4.1, 4o, nano, mini, etc).
+- `experiments/libs/`: Utilities and wrappers for APIs, prompts, and evaluation functions.
+    - `exp_utils.py`: Functions for quantitative and qualitative evaluation.
+    - `prompts.py`: Prompt templates for each reasoning technique.
+    - `openai_lib.py`, `gemini_lib.py`, `anthropic_lib.py`: API wrappers for each LLM provider.
+- `bugLocationDappScan.json`: Ground truth metadata for vulnerability locations (used in experiments).
+- Other subfolders (e.g., `DAppSCAN-main/`, `JiuZhou/`): Source files and audits for smart contracts (if present in your dataset root).
 
 ---
 
@@ -68,9 +74,12 @@ requirements.txt
     ```
 
 3. **Configure environment variables**
-    - Create a `.env` file in the root directory:
+    - Create a `.env` file in the root directory, for example:
       ```
-      OPENAI_API_KEY=your_openai_api_key_here
+      OPENAI_API_KEY=your_openai_api_key
+      GEMINI_API_KEY=your_gemini_api_key
+      ANTHROPIC_API_KEY=your_anthropic_api_key
+      DATASET_PATH=src/dataset_analysis/dataset_analysis.csv
       ```
 
 ---
@@ -79,54 +88,50 @@ requirements.txt
 
 ### Dataset Analysis
 
-Run:
+Open:
 ```sh
 jupyter notebook src/dataset_analysis/dataset_analysis.ipynb
 ```
 - Explore dataset statistics, distributions, and examples.
-- Perform qualitative analysis, such as manual review of explanations and comparison with ground truth.
+- Perform manual qualitative analysis of explanations and comparison with ground truth.
 
 ### Running Experiments
 
 Open any notebook in `src/experiments/` to:
 - Load the dataset
-- Generate prompts for different models and reasoning strategies
+- Generate prompts for different models and strategies
 - Query LLMs
-- Evaluate both detection metrics and explanation quality
+- Evaluate detection metrics and explanation quality
 
 Example:
 ```sh
-jupyter notebook src/experiments/gpt_4o.ipynb
+jupyter notebook src/experiments/gpt_models/gpt_4o.ipynb
 ```
 
 ### Qualitative Analysis
 
-- Qualitative analysis can be performed manually or using scripts/notebooks.
+- Can be performed manually or using scripts/notebooks.
 - Compare model-generated explanations with ground truth (`bugLocation.json`).
 - Use criteria such as correctness, completeness, clarity, and consistency.
-- For manual evaluation, record observations and notes in spreadsheets or Markdown files.
+- For manual evaluation, record observations in spreadsheets or Markdown files.
 - For automated evaluation, use functions in `exp_utils.py` or create custom scripts.
 
 ---
 
 ## Evaluation Criteria
 
-- **Quantitative (Detection)**: Precision, recall, F1-score for binary vulnerability detection.
-- **Qualitative (Explanation)**: Correctness, completeness, clarity, and consistency of model-generated explanations compared to ground truth.
+- **Quantitative (Detection):** Precision, recall, F1-score for binary vulnerability detection.
+- **Qualitative (Explanation):** Correctness, completeness, clarity, and consistency of explanations.
 
 ---
 
 ## Contributing
 
-Contributions are welcome! Feel free to submit issues or pull requests to improve this project, add new qualitative analysis scripts, or suggest experiment adjustments.
+Contributions are welcome! Submit issues or pull requests to improve the project, add qualitative analysis scripts, or suggest experiment adjustments.
+
+Refer to the LICENSE files in dataset subfolders. This project is for academic and educational purposes only.
 
 ---
 
-## License
-
-Please refer to the LICENSE files in dataset subfolders. This project is intended for academic research and educational purposes only.
-
----
-
-**Contact**  
-Open an issue or reach out to the maintainer via GitHub for questions or collaboration.
+**Contact**
+Open an issue or reach out via GitHub for questions or collaboration.
