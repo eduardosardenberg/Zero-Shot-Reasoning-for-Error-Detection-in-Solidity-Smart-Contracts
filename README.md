@@ -1,4 +1,4 @@
-# Smart-Contract-LLM-Evaluation
+# Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts
 
 This repository provides datasets and code to evaluate the ability of LLMs to detect and explain vulnerabilities in Solidity smart contracts. It supports zero-shot experiments with different reasoning strategies and includes both quantitative and qualitative evaluations.
 
